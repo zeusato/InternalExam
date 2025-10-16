@@ -1,0 +1,162 @@
+{
+  "departments": [
+    {
+      "id": "ban-ph-p-ch-ki-m-so-t-qu-n-tr-r-i-ro",
+      "name": "Ban Pháp chế, Kiểm soát & Quản trị rủi ro",
+      "scopes": [
+        "bảo_mật_thông_tin",
+        "cho_vay_giao_dịch_ký_quỹ",
+        "lưu_ký_chứng_khoán",
+        "môi_giới_chứng_khoán",
+        "nhận_diện_thương_hiệu_và_truyền_thông",
+        "nội_quy_công_ty",
+        "phòng_chống_rửa_tiền",
+        "quy_định_chung_ttck",
+        "soạn_thảo,_ban_hành_và_quản_lý_văn_bản",
+        "tiêu_chuẩn_chất_lượng_dịch_vụ",
+        "tư_vấn_tài_chính_và_bảo_lãnh_phát_hành",
+        "tư_vấn_đầu_tư",
+        "tự_doanh_chứng_khoán",
+        "đạo_đức_nghề_nghiệp"
+      ]
+    },
+    {
+      "id": "c-c-ph-ng-ban-kh-c",
+      "name": "Các phòng/ban khác",
+      "scopes": [
+        "bảo_mật_thông_tin",
+        "nhận_diện_thương_hiệu_và_truyền_thông",
+        "nội_quy_công_ty",
+        "phòng_chống_rửa_tiền",
+        "quy_định_chung_ttck",
+        "soạn_thảo,_ban_hành_và_quản_lý_văn_bản",
+        "tiêu_chuẩn_chất_lượng_dịch_vụ",
+        "đạo_đức_nghề_nghiệp"
+      ]
+    },
+    {
+      "id": "kh-i-t-v-n-u-t",
+      "name": "Khối Tư vấn đầu tư",
+      "scopes": [
+        "bảo_mật_thông_tin",
+        "môi_giới_chứng_khoán",
+        "nhận_diện_thương_hiệu_và_truyền_thông",
+        "nội_quy_công_ty",
+        "phòng_chống_rửa_tiền",
+        "quy_định_chung_ttck",
+        "soạn_thảo,_ban_hành_và_quản_lý_văn_bản",
+        "tiêu_chuẩn_chất_lượng_dịch_vụ",
+        "tư_vấn_đầu_tư",
+        "đạo_đức_nghề_nghiệp"
+      ]
+    },
+    {
+      "id": "kh-i-u-t",
+      "name": "Khối Đầu tư",
+      "scopes": [
+        "bảo_mật_thông_tin",
+        "môi_giới_chứng_khoán",
+        "nhận_diện_thương_hiệu_và_truyền_thông",
+        "nội_quy_công_ty",
+        "phòng_chống_rửa_tiền",
+        "quy_định_chung_ttck",
+        "soạn_thảo,_ban_hành_và_quản_lý_văn_bản",
+        "tiêu_chuẩn_chất_lượng_dịch_vụ",
+        "đạo_đức_nghề_nghiệp"
+      ]
+    },
+    {
+      "id": "ph-ng-d-ch-v-t-i-ch-nh",
+      "name": "Phòng Dịch vụ tài chính",
+      "scopes": [
+        "bảo_mật_thông_tin",
+        "môi_giới_chứng_khoán",
+        "nhận_diện_thương_hiệu_và_truyền_thông",
+        "nội_quy_công_ty",
+        "phòng_chống_rửa_tiền",
+        "quy_định_chung_ttck",
+        "soạn_thảo,_ban_hành_và_quản_lý_văn_bản",
+        "tiêu_chuẩn_chất_lượng_dịch_vụ",
+        "tư_vấn_đầu_tư",
+        "đạo_đức_nghề_nghiệp"
+      ]
+    },
+    {
+      "id": "ph-ng-giao-d-ch-ch-ng-kho-n-chi-nh-nh",
+      "name": "Phòng giao dịch chứng khoán (Chi nhánh)",
+      "scopes": [
+        "bảo_mật_thông_tin",
+        "môi_giới_chứng_khoán",
+        "nhận_diện_thương_hiệu_và_truyền_thông",
+        "nội_quy_công_ty",
+        "phòng_chống_rửa_tiền",
+        "quy_định_chung_ttck",
+        "soạn_thảo,_ban_hành_và_quản_lý_văn_bản",
+        "tiêu_chuẩn_chất_lượng_dịch_vụ",
+        "tư_vấn_đầu_tư",
+        "đạo_đức_nghề_nghiệp"
+      ]
+    },
+    {
+      "id": "ph-ng-giao-d-ch-t-ng-h-p",
+      "name": "Phòng Giao dịch tổng hợp",
+      "scopes": [
+        "bảo_mật_thông_tin",
+        "môi_giới_chứng_khoán",
+        "nhận_diện_thương_hiệu_và_truyền_thông",
+        "nội_quy_công_ty",
+        "phòng_chống_rửa_tiền",
+        "quy_định_chung_ttck",
+        "soạn_thảo,_ban_hành_và_quản_lý_văn_bản",
+        "tiêu_chuẩn_chất_lượng_dịch_vụ",
+        "tư_vấn_đầu_tư",
+        "đạo_đức_nghề_nghiệp"
+      ]
+    },
+    {
+      "id": "ph-ng-k-to-n-giao-d-ch",
+      "name": "Phòng Kế toán giao dịch",
+      "scopes": [
+        "bảo_mật_thông_tin",
+        "nhận_diện_thương_hiệu_và_truyền_thông",
+        "nội_quy_công_ty",
+        "phòng_chống_rửa_tiền",
+        "quy_định_chung_ttck",
+        "soạn_thảo,_ban_hành_và_quản_lý_văn_bản",
+        "tiêu_chuẩn_chất_lượng_dịch_vụ",
+        "đạo_đức_nghề_nghiệp"
+      ]
+    },
+    {
+      "id": "tt-t-v-n-th-tr-ng-v-n-c-ph-n",
+      "name": "TT. Tư vấn Thị trường Vốn cổ phần",
+      "scopes": [
+        "bảo_mật_thông_tin",
+        "môi_giới_chứng_khoán",
+        "nhận_diện_thương_hiệu_và_truyền_thông",
+        "nội_quy_công_ty",
+        "phòng_chống_rửa_tiền",
+        "quy_định_chung_ttck",
+        "soạn_thảo,_ban_hành_và_quản_lý_văn_bản",
+        "tiêu_chuẩn_chất_lượng_dịch_vụ",
+        "đạo_đức_nghề_nghiệp"
+      ]
+    }
+  ],
+  "allScopes": [
+    "bảo_mật_thông_tin",
+    "cho_vay_giao_dịch_ký_quỹ",
+    "lưu_ký_chứng_khoán",
+    "môi_giới_chứng_khoán",
+    "nhận_diện_thương_hiệu_và_truyền_thông",
+    "nội_quy_công_ty",
+    "phòng_chống_rửa_tiền",
+    "quy_định_chung_ttck",
+    "soạn_thảo,_ban_hành_và_quản_lý_văn_bản",
+    "tiêu_chuẩn_chất_lượng_dịch_vụ",
+    "tư_vấn_tài_chính_và_bảo_lãnh_phát_hành",
+    "tư_vấn_đầu_tư",
+    "tự_doanh_chứng_khoán",
+    "đạo_đức_nghề_nghiệp"
+  ]
+}

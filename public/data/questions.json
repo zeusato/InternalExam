@@ -1,0 +1,3961 @@
+[
+  {
+    "scope": "Nội quy công ty",
+    "content": "Theo Nội quy lao động, \"Nơi làm việc\" được hiểu thuộc các phạm vi nào?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b"
+    ],
+    "choices": {
+      "a": "Nơi NLĐ thực hiện công việc tại cơ quan",
+      "b": "Cả trường hợp NLĐ làm việc ngoài cơ quan",
+      "c": "Nơi nghỉ của NLĐ",
+      "d": "Chỗ ở của NLĐ"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Cán bộ nhân viên làm việc tại SHS phải làm việc đầy đủ bao nhiêu giờ trong một ngày?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "08 giờ/ngày",
+      "b": "07 giờ/ngày",
+      "c": "09 giờ/ngày",
+      "d": "06 giờ/ngày"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Quy định chung về giờ làm việc tiêu chuẩn hằng ngày tại SHS là?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b"
+    ],
+    "choices": {
+      "a": "Sáng: 08:30 - 11:45",
+      "b": "Chiều: 12:45 - 17:30",
+      "c": "Sáng: 08:00 - 12:00",
+      "d": "Chiều: 13:00 - 17:00"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Theo Nội quy lao động và Quy định chấm công NVMG (2023), Những đối tượng nào được coi là lao động có tính chất đặc thù có quy định về giờ làm việc được điều chỉnh so với quy định giờ làm việc chung?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "choices": {
+      "a": "Lái xe, bảo vệ, thủ kho",
+      "b": "Phụ nữ có thai đến tháng thứ 7, người nuôi con nhỏ dưới 12 tháng",
+      "c": "Lao động nam trên 60 tuổi, nữ trên 55 tuổi",
+      "d": "Lao động theo HĐLĐ có thời hạn dưới 03 tháng",
+      "e": "CBNV Khối TVĐT"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Những ngày lễ, tết nào Cán bộ nhân viên được nghỉ hưởng lương theo Nội quy Lao động?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "f"
+    ],
+    "choices": {
+      "a": "Tết Dương lịch: 01/01",
+      "b": "Tết Âm lịch: 04 ngày (cuối năm + 3 ngày đầu năm)",
+      "c": "Giỗ Tổ Hùng Vương: 10/03 âm lịch",
+      "d": "Ngày Quốc tế Lao động: 01/05",
+      "e": "Ngày Quốc tế Phụ nữ: 08/03",
+      "f": "Ngày Giải phóng Miền Nam:30/4"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Cán bộ nhân viên làm việc tại SHS phải tuân thủ điều hành công việc của ai ?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Lãnh đạo trực tiếp",
+      "b": "Người lao động khác",
+      "c": "Khách hàng",
+      "d": "Không ai cả",
+      "e": "Cơ quan quản lý nhà nước"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Khi thấy yêu cầu công việc chưa hợp lý, Cán bộ nhân viên có quyền làm gì?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c"
+    ],
+    "choices": {
+      "a": "Kiến nghị bằng văn bản",
+      "b": "Từ chối mọi nhiệm vụ",
+      "c": "Chấp hành ý kiến cuối cùng của Chủ tịch HĐQT",
+      "d": "Tự ý điều chỉnh công việc",
+      "e": "Bỏ việc"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Người lãnh đạo bộ phận có trách nhiệm chính nào sau đây?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Lập kế hoạch công tác, phân công và đánh giá kết quả công việc của nhân viên",
+      "b": "Chỉ ký giấy tờ hành chính",
+      "c": "Chỉ trả lương",
+      "d": "Quản lý tài sản cá nhân của nhân viên",
+      "e": "Không có nhiệm vụ nào"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Những hành vi nào sau đây bị nghiêm cấm tại nơi làm việc?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Mang vũ khí, chất nổ, ma túy vào cơ quan",
+      "b": "Sử dụng chất kích thích hoặc ma túy trong cơ quan",
+      "c": "Đưa người lạ vào nơi làm việc không vì mục đích công việc",
+      "d": "Hút thuốc lá trong khu vực làm việc",
+      "e": "Đeo thẻ CBNV khi làm việc"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Cán bộ nhân viên được phép rời khỏi nơi làm việc trong giờ làm việc khi nào?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Theo yêu cầu công việc hoặc được phép của người quản lý trực tiếp",
+      "b": "Bất kỳ lúc nào NLĐ muốn",
+      "c": "Chỉ khi nghỉ phép năm",
+      "d": "Khi khách đến thăm"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Quy định về chấm công, xin nghỉ phép bao gồm những điều nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c"
+    ],
+    "choices": {
+      "a": "Nghiêm cấm mọi hành vi gian lận trong đăng ký chấm công",
+      "b": "Chấm công có thể gian lận nếu lý do chính đáng",
+      "c": "Nhân viên phải tuân thủ quy định chấm công và xin nghỉ phép",
+      "d": "Che giấu hành vi gian lận là cho phép",
+      "e": "Không cần xin phép khi vắng mặt"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Khi nào Cán bộ nhân viên không được mang bất kỳ tài sản nào của Công ty ra khỏi Công ty?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Khi chưa có sự đồng ý bằng văn bản của cấp quản lý có thẩm quyền",
+      "b": "Khi có giấy phép mượn tài sản",
+      "c": "Khi tài sản đã hết giá trị sử dụng",
+      "d": "Khi NLĐ là quản lý cấp cao",
+      "e": "Khi hết giờ làm việc"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Về tiếp khách tại nơi làm việc, quy định nào là đúng?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c"
+    ],
+    "choices": {
+      "a": "Tiếp khách quan hệ công tác phải thông báo cho Lãnh đạo trực tiếp",
+      "b": "Không được tiếp khách bất kỳ trường hợp nào",
+      "c": "Tiếp khách về việc riêng phải có sự đồng ý của Lãnh đạo trực tiếp",
+      "d": "Tiếp khách không cần thông báo",
+      "e": "Tiếp khách chỉ cho khách hàng VIP"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Cán bộ nhân viên có nghĩa vụ tham gia những hoạt động nào liên quan an toàn lao động?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "d"
+    ],
+    "choices": {
+      "a": "Tham gia tất cả các lớp và khóa học hướng dẫn về an toàn, PCCC do công ty tổ chức",
+      "b": "Có thể không tham gia nếu bận",
+      "c": "Chỉ tham gia khi được yêu cầu đặc biệt",
+      "d": "Việc tham gia là nghĩa vụ bắt buộc",
+      "e": "Tham gia giả vờ cho có"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Khi phát hiện nguy cơ mất an toàn như tai nạn, cháy nổ, Cán bộ nhân viên phải làm những việc nào?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Báo ngay cho Lãnh đạo trực tiếp hoặc người có thẩm quyền",
+      "b": "Thực hiện bảo vệ hiện trường hoặc các biện pháp ngăn chặn",
+      "c": "Tham gia cấp cứu và khắc phục hậu quả khi có lệnh của NSDLĐ",
+      "d": "Tiếp tục công việc như bình thường",
+      "e": "Giấu nhẹm sự việc"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Cán bộ nhân viên có quyền từ chối trở lại làm việc tại nơi nguy hiểm khi nào?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Khi những nguy cơ đó chưa được khắc phục",
+      "b": "Khi lãnh đạo yêu cầu",
+      "c": "Ngay cả khi nguy cơ đã được khắc phục",
+      "d": "Khi đồng nghiệp cho phép",
+      "e": "Không được từ chối"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Những quy định nào liên quan đến vệ sinh nơi làm việc?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Kiểm tra định kỳ, tu sửa, bảo dưỡng máy móc, trang thiết bị",
+      "b": "Giữ tài liệu gọn gàng, ngăn nắp, vệ sinh sạch sẽ nơi làm việc",
+      "c": "Không cần vệ sinh thường xuyên, thiết bị hỏng sẽ được thay mới",
+      "d": "Đề xuất cải tạo, sửa chữa trụ sở khi cần"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Khi chấm dứt HĐLĐ, Cán bộ nhân viên phải làm gì đối với tài liệu, tài sản do Công ty cung cấp?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Trả lại toàn bộ tài liệu, phần mềm, dữ liệu, sổ sách liên quan",
+      "b": "Giữ lại bản sao để tiện công việc mới",
+      "c": "Bán cho người khác",
+      "d": "Không cần trả lại nếu đã thôi việc",
+      "e": "Nộp lại chỉ khi được yêu cầu bằng văn bản"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Những hành vi nào có thể bị truy cứu trách nhiệm hình sự theo Nội quy Lao động?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "d"
+    ],
+    "choices": {
+      "a": "Tiết lộ bí mật kinh doanh, bí mật công nghệ gây hậu quả nghiêm trọng",
+      "b": "Vi phạm kỷ luật nhỏ không ảnh hưởng tài sản",
+      "c": "Chậm nộp báo cáo định kỳ",
+      "d": "Tiết lộ thông tin tài chính, số liệu phân tích cho bên ngoài",
+      "e": "Gây phiền hà cho khách hàng"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Khi xử lý kỷ luật lao động, những nguyên tắc nào sau đây bắt buộc phải tuân thủ?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "NLĐ phải có mặt và có quyền tự bào chữa hoặc nhờ người bào chữa",
+      "b": "Việc xử lý phải lập thành văn bản",
+      "c": "Cấm mọi hành vi xâm phạm thân thể, nhân phẩm khi xử lý",
+      "d": "Cấm dùng hình thức cúp lương thay việc xử lý kỷ luật",
+      "e": "Có thể xử lý nhiều lần cho cùng một hành vi"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Về thời hiệu xử lý vi phạm kỷ luật lao động, những phát biểu nào đúng?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Thời hiệu tối đa là 06 tháng kể từ ngày xảy ra hoặc phát hiện vi phạm; tối đa 12 tháng nếu có hành vi vi phạm liên quan đến hành chính, tài sản, tiết lộ bí mật của Công ty",
+      "b": "Không được xử lý khi NLĐ đang nghỉ ốm đau, tạm giam, đang chờ kết luận cơ quan điều tra...",
+      "c": "Sau khi hết thời gian nghỉ, nếu còn thời hiệu thì tiến hành xử lý; nếu hết thời hiệu có thể khôi phục tối đa 60 ngày",
+      "d": "Thời hiệu bằng 12 tháng trong mọi trường hợp",
+      "e": "Trong mọi trường hợp, thời hiệu không thể kéo dài"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Những tình tiết nào sau đây được coi là tình tiết tăng nặng khi xem xét kỷ luật?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "choices": {
+      "a": "Vi phạm có tổ chức",
+      "b": "Vi phạm nhiều lần hoặc tái phạm",
+      "c": "Vi phạm trong tình trạng say do rượu, bia hoặc chất kích thích",
+      "d": "NLĐ vi phạm đang mang thai",
+      "e": "Sau khi vi phạm có hành vi trốn tránh, che dấu"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Hành vi nào dưới đây có thể bị xử lý kỷ luật bằng hình thức khiển trách bằng miệng?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Đi muộn hoặc về sớm từ 10 phút trở lên mà không xin phép",
+      "b": "Trộm cắp tài sản công ty",
+      "c": "Phá hoại tài sản dẫn đến thiệt hại nghiêm trọng",
+      "d": "Sử dụng ma túy trong giờ làm việc",
+      "e": "Cố ý làm mất hồ sơ quan trọng"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Những hành vi nào có thể bị xử lý kỷ luật bằng hình thức sa thải theo Nội quy Lao động?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Tự ý nghỉ việc không báo cáo, không có lý do chính đáng 05 ngày cộng dồn trong một tháng",
+      "b": "Trộm cắp, tham ô, cố ý gây thương tích, sử dụng ma túy tại nơi làm việc",
+      "c": "Vi phạm nhỏ không gây hậu quả",
+      "d": "Phá hoại tài sản dẫn đến thiệt hại nghiêm trọng",
+      "e": "Không hoàn thành công việc một lần"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Phát biểu nào sau đây đúng về việc CBNV được công ti tài trợ chi phí tham gia các đào tạo?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b"
+    ],
+    "choices": {
+      "a": "CBNV cần thực hiện cam kết làm việc tại Công ty sau khi khóa học kết thúc",
+      "b": "Nghiêm túc tuân thủ các quy định của lớp học đảm bảo hoàn thành chương trình",
+      "c": "Không có lưu ý đặc biệt"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Những ai sau đây chịu trách nhiệm thi hành/tuân thủ các quy định trong Nội quy Lao động?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "choices": {
+      "a": "Các thành viên HĐQT",
+      "b": "Tổng Giám đốc",
+      "c": "Giám đốc các Khối, Trưởng phòng, Trưởng ban, cán bộ nhân viên các phòng, ban, chi nhánh",
+      "d": "Sở LĐ-TB&XH trực tiếp thi hành trong công ty",
+      "e": "Tất cả các cá nhân có liên quan trong công ty"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Quy định chung về số lần chấm công/ngày của CBNV là?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "2 Lần/ngày (Khi bắt đầu đến Công ty và khi kết thúc ngày làm việc)",
+      "b": "4 Lần/ngày (Khi bắt đầu  và kết thúc mỗi ca làm việc)",
+      "c": "1 lần/ngày, khi kết thúc ngày làm việc",
+      "d": "1 lần/ngày, khi bắt đầu ngày làm việc"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Hàng tháng, CBNV phải thực hiện chấm công bổ sung trong các trường hợp nào?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Khi máy chấm công bị lỗi (thông báo cho P.CNTT trong ngày phát sinh lỗi và trên phiếu chấm công bổ sung cần có thêm xác nhận của P.CNTT)",
+      "b": "Quên chấm công (Đối với CBNV thử việc: không quá 2 lần/tháng; Đối với CBNV đã ký HĐLĐ chính thức: Không quá 2 lần/năm và 1 lần/tháng)",
+      "c": "Đi làm muộn có lí do chính đáng",
+      "d": "Đi công tác"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "CBNV xin nghỉ phép cần xin phê duyệt của cấp thẩm quyền nào?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Trưởng phòng - nếu nghỉ 1/2 ngày làm việc",
+      "b": "Trưởng phòng - nếu nghỉ 1 ngày làm việc",
+      "c": "P.TGĐ/P.GĐCN nếu nghỉ từ 01-02 ngày",
+      "d": "TGĐ/GĐCN nếu nghỉ trên 02 ngày"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Hãy chọn các phát biểu đúng về thời gian báo trước và hoàn thiện đơn xin nghỉ phép dưới đây:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "choices": {
+      "a": "Nghỉ từ 01 ngày làm việc: báo trước và hoàn thiện đơn trong vòng 1 ngày làm việc trước ngày dự định xin nghỉ",
+      "b": "Nghỉ từ 02-05 ngày làm việc: báo trước và hoàn thiện đơn ít nhất 03 ngày làm việc trước ngày dự định xin nghỉ",
+      "c": "Nghỉ từ 06-15 ngày làm việc: báo trước và hoàn thiện đơn ít nhất 05 ngày làm việc trước ngày dự định xin nghỉ",
+      "d": "Nghỉ từ 16-22 ngày làm việc: báo trước và hoàn thiện đơn ít nhất 10 ngày làm việc trước ngày dự định xin nghỉ",
+      "e": "Nghỉ từ 1 tháng trở lên/nghỉ tạm hoàn HĐLĐ: báo trước ít nhất 15 ngày làm việc",
+      "f": "Các trường hợp đột xuất không có kế hoạch trước: báo cáo lãnh đạo trực tiếp và hoàn thiện đơn xin phép trong vòng 2 ngày kể từ khi đi làm lại"
+    }
+  },
+  {
+    "scope": "Tiêu chuẩn chất lượng dịch vụ",
+    "content": "Các phát biểu mô tả đúng hình ảnh / trang phục diện mạo của CBNV SHS?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Trang phục vừa vặn, sạch sẽ, là ủi phẳng nếp và kín đáo trong mọi tư thế,  lịch sự phù hợp với môi trường văn phòng",
+      "b": "Đi giày da hoặc xăng-đan (dép có quai hậu) trong thời gian làm việc",
+      "c": "Diện mạo tươi tắn. Tóc cắt tỉa hoặc cặp gọn gàng. CBNV nam cần cạo, tỉa râu gọn gàng",
+      "d": "Thường xuyên cắt, tỉa và giữ sạch sẽ móng tay, móng chân"
+    }
+  },
+  {
+    "scope": "Tiêu chuẩn chất lượng dịch vụ",
+    "content": "Trang phục nào sau đây phù hợp với quy định?",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Váy ngắn trên đầu gối 10–15 cm",
+      "b": "Áo sơ mi có cổ",
+      "c": "Quần dài",
+      "d": "Juyp công sở"
+    }
+  },
+  {
+    "scope": "Tiêu chuẩn chất lượng dịch vụ",
+    "content": "CBNV có được đi dép lê khi làm việc không?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Được phép",
+      "b": "Không được phép",
+      "c": "Chỉ với nhân viên nữ",
+      "d": "Chỉ vào ngày Thứ Sáu"
+    }
+  },
+  {
+    "scope": "Tiêu chuẩn chất lượng dịch vụ",
+    "content": "Vào Thứ Hai và Thứ Ba, mặc các trang phục như nào thì được coi là KHÔNG HỢP LỆ?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c"
+    ],
+    "choices": {
+      "a": "Áo phông và quần jean",
+      "b": "Âu phục của SHS (Áo sơ mi trắng, quần/Chân váy công sở màu đen), đeo cà-vạt/khăn nơ và biển tên với bộ phận giao dịch",
+      "c": "Trang phục tự chọn"
+    }
+  },
+  {
+    "scope": "Tiêu chuẩn chất lượng dịch vụ",
+    "content": "Các phát biểu nào sau đây đúng về quy định đồng phục của Công ty",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Công ty cấp đồng phục cho CBNV kí HĐLĐ chính thức (1 năm trở lên)",
+      "b": "Công ty cấp đồng phục cho tất cả CBNV làm việc tại SHS, không phân biệt loại HĐLĐ, thời hạn HĐLĐ",
+      "c": "CBNV chấm dứt HĐLĐ trước 9 tháng kể từ ngày được cấp đồng phục cần bồi hoàn chi phí đồng phục (theo tỉ lệ bồi hoàn được quy định)",
+      "d": "CBNV được cấp đồng phục có trách nhiệm bảo quản, sử dụng và giữ gìn cẩn thận"
+    }
+  },
+  {
+    "scope": "Tiêu chuẩn chất lượng dịch vụ",
+    "content": "Một nhân viên nam đi làm với râu dài không cạo tỉa,  Cách xử lý đúng theo quy định là gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Bỏ qua vì không quan trọng",
+      "b": "Cần phải cạo, tỉa râu gọn gàng",
+      "c": "Chỉ cần mặc đồng phục đầy đủ",
+      "d": "Cho phép vì phong cách cá nhân"
+    }
+  },
+  {
+    "scope": "Tiêu chuẩn chất lượng dịch vụ",
+    "content": "Nhân viên nữ mặc váy ngắn trên đầu gối 12 cm khi đi làm, đây là hành vi:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Được phép nếu váy lịch sự",
+      "b": "Vi phạm quy định trang phục",
+      "c": "Không vi phạm",
+      "d": "Phụ thuộc ý kiến quản lý"
+    }
+  },
+  {
+    "scope": "Tiêu chuẩn chất lượng dịch vụ",
+    "content": "Một nhân viên đi dép lê trong giờ làm việc, đây là hành vi:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Được phép vào ngày Thứ Sáu",
+      "b": "Vi phạm quy định, không được phép",
+      "c": "Được phép cho nhân viên nữ",
+      "d": "Được phép khi làm việc nội bộ"
+    }
+  },
+  {
+    "scope": "Tiêu chuẩn chất lượng dịch vụ",
+    "content": "Một nhân viên nữ mang thai tháng thứ 7, muốn mặc váy bầu trang nhã thay đồng phục,  Việc này có hợp lệ không?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Không hợp lệ, bắt buộc đồng phục",
+      "b": "Hợp lệ nếu trang phục trang nhã, gọn gàng",
+      "c": "Chỉ hợp lệ vào Thứ Sáu"
+    }
+  },
+  {
+    "scope": "Tiêu chuẩn chất lượng dịch vụ",
+    "content": "Nhân viên mặc đồng phục Âu phục nhưng áo sơ mi không sơ vin, cài thiếu 2 khuy,  Việc này có hợp lệ không?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Hợp lệ vì vẫn mặc đồng phục",
+      "b": "Không hợp lệ, phải sơ vin và cài khuy đầy đủ (tháo tối đa 1 khuy trên cùng)",
+      "c": "Hợp lệ nếu không gặp khách hàng",
+      "d": "Tùy quản lý xem xét"
+    }
+  },
+  {
+    "scope": "Tiêu chuẩn chất lượng dịch vụ",
+    "content": "Theo quy định về tiêu chuẩn không gian tại khu vực làm việc và giao dịch cần tuân thủ những yêu cầu nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "choices": {
+      "a": "Không được để tờ rơi, ấn phẩm quảng cáo, lịch bàn, lịch treo tường của các đơn vị khác, đồ ăn, đồ dùng cá nhân không phục vụ công việc tại khu vực làm việc.",
+      "b": "CBNV ngồi đúng vị trí được phân công/chỉ định, chịu trách nhiệm về không gian làm việc tại vị trí của mình.",
+      "c": "Tại khu vực lễ tân, nhân viên phải đảm bảo 100% thời gian trong giờ hành chính có mặt tại quầy, trừ khi có người trực thay.",
+      "d": "Có thể để đồ dùng cá nhân, quà tặng lên mặt quầy giao dịch nếu gọn gàng, thẩm mỹ.",
+      "e": "Không hút thuốc, nói to gây ồn ào khu vực làm việc, khu vực giao dịch.",
+      "f": "Tài liệu, đồ dùng phục vụ công việc cần được xắp xếp gọn gàng, khoa học."
+    }
+  },
+  {
+    "scope": "Tiêu chuẩn chất lượng dịch vụ",
+    "content": "Theo anh chị, mô tả nào sau đây phù hợp khi giao tiếp với khách hàng?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c"
+    ],
+    "choices": {
+      "a": "Luôn nhã nhặn và bình tĩnh khi trao đổi thông tin, không tranh cãi trong quá trình trao đổi, làm việc.",
+      "b": "Bảo vệ và làm rõ quan điểm cá nhân khi trao đổi thông tin.",
+      "c": "Trong trường hợp khách hàng gọi điện đến SHS và cần chuyển máy gặp CBNV của SHS, cần xác minh mục đích cuộc gọi, và đối tượng cần chuyển trước khi thực hiện."
+    }
+  },
+  {
+    "scope": "Soạn thảo, ban hành và quản lý văn bản",
+    "content": "Theo quy định về công tác văn thư, lưu trữ nguyên tắc chung về quản lý văn bản đi, văn bản đến của Công ty, các phát biểu nào sau đây là sai?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Chỉ văn bản đi cần được đăng ký và vào sổ tại văn thư.",
+      "b": "Chỉ các văn bản quan trọng mới cần được đăng ký tại văn thư",
+      "c": "Chỉ có nhân viên Văn thư mới có trách nhiệm quản lý văn bản",
+      "d": "Tất cả văn bản đi, văn bản đến (trừ trường hợp pháp luật có quy định khác) đều phải được đăng ký vào sổ tại văn thư của Công ty"
+    }
+  },
+  {
+    "scope": "Soạn thảo, ban hành và quản lý văn bản",
+    "content": "Theo anh chị, con dấu công ty có thể sẽ thay đổi trong trường hợp nào?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Có thể đổi tùy ý theo nhu cầu",
+      "b": "Khi công ty tổ chức sự kiện nội bộ cần một mẫu dấu mới",
+      "c": "Có sự chuyển đổi về tổ chức hoặc đổi tên Công ty, tên Chi nhánh theo quy định của pháp luật"
+    }
+  },
+  {
+    "scope": "Soạn thảo, ban hành và quản lý văn bản",
+    "content": "Nguyên tắc định lề trang văn bản đối với khổ giấy A4 trong các trường hợp sau trường hợp nào là đúng?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Lề trên: Cách mép trên của giấy từ 15-20 mm; \nLề dưới: cách mép dưới của giấy 15 - 20 mm;\nLề trái: cách mép trái của giấy từ 25-30 mm;\nLề phải: cách mép phải của giấy 15-20 mm;",
+      "b": "Lề trên: Cách mép trên của giấy từ 12-20 mm; \nLề dưới: cách mép dưới của giấy 12 - 20 mm;\nLề trái: cách mép trái của giấy từ 25-30 mm;\nLề phải: cách mép phải của giấy 12-20 mm;",
+      "c": "Lề trên: Cách mép trên của giấy từ 18-20 mm; \nLề dưới: cách mép dưới của giấy 18 - 20 mm;\nLề trái: cách mép trái của giấy từ 25-30 mm;\nLề phải: cách mép phải của giấy 18-20 mm;"
+    }
+  },
+  {
+    "scope": "Soạn thảo, ban hành và quản lý văn bản",
+    "content": "Theo quy định, khi đóng dấu trên văn bản, con dấu của Công ty được đóng như thế nào là KHÔNG hợp lệ ?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Đóng ở bất kỳ vị trí nào trên trang văn bản, miễn là còn nhìn thấy",
+      "b": "Đóng chồng lên toàn bộ chữ ký của người có thẩm quyền",
+      "c": "Khi đóng dấu phải đóng trùm lên 1/3 chữ ký của người có thẩm quyền về phía bên trái",
+      "d": "Đóng ở giữa trang văn bản, không cần chữ ký"
+    }
+  },
+  {
+    "scope": "Soạn thảo, ban hành và quản lý văn bản",
+    "content": "Những yếu tố nào sau đây là yêu cầu đối với công tác lưu trữ tài liệu trong Công ty?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Bảo đảm tính an toàn, bí mật của tài liệu",
+      "b": "Phân loại, sắp xếp khoa học, thuận tiện tra cứu",
+      "c": "Chỉ lưu giữ tài liệu quan trọng, bỏ các tài liệu khác",
+      "d": "Thực hiện đúng thời hạn nộp lưu trữ"
+    }
+  },
+  {
+    "scope": "Soạn thảo, ban hành và quản lý văn bản",
+    "content": "Ai là người chịu trách nhiệm trực tiếp quản lý và sử dụng con dấu của cơ quan, tổ chức?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Người đứng đầu cơ quan, tổ chức",
+      "b": "Bộ phận văn thư hoặc cán bộ được giao nhiệm vụ quản lý con dấu",
+      "c": "Bất kỳ cán bộ nào trong cơ quan khi cần",
+      "d": "Thư ký riêng của lãnh đạo"
+    }
+  },
+  {
+    "scope": "Soạn thảo, ban hành và quản lý văn bản",
+    "content": "Hành vi nào sau đây là tuân thủ quy định quản lý và sử dụng con dấu?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c"
+    ],
+    "choices": {
+      "a": "Con dấu được bảo quản tại nơi quy định, an toàn",
+      "b": "CBNV có thể tùy ý sử dụng con dấu",
+      "c": "Con dấu được đóng dấu ngay ngắn, rõ ràng, đúng vị trí trên văn bản"
+    }
+  },
+  {
+    "scope": "Soạn thảo, ban hành và quản lý văn bản",
+    "content": "Thể thức và kỹ thuật trình bày văn bản hành chính phải tuân thủ theo quy định nào?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Quy định của từng cơ quan, đơn vị",
+      "b": "Quy ước riêng giữa các phòng ban trong cơ quan",
+      "c": "Quy định pháp luật hiện hành về thể thức, kỹ thuật trình bày văn bản hành chính"
+    }
+  },
+  {
+    "scope": "Soạn thảo, ban hành và quản lý văn bản",
+    "content": "Trách nhiệm soạn thảo văn bản của cơ quan, tổ chức thuộc về ai?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Lãnh đạo cơ quan ký văn bản",
+      "b": "Cá nhân, đơn vị được phân công chủ trì soạn thảo",
+      "c": "Bộ phận văn thư"
+    }
+  },
+  {
+    "scope": "Soạn thảo, ban hành và quản lý văn bản",
+    "content": "Quản lý văn bản trong cơ quan phải tuân thủ những nguyên tắc nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Văn bản phải được đăng ký, vào sổ hoặc cập nhật phần mềm quản lý",
+      "b": "Văn bản phải được lưu trữ, bảo quản đúng thời hạn quy định",
+      "c": "Văn bản có thể giữ riêng ở từng cá nhân cho tiện công việc",
+      "d": "Việc khai thác, sử dụng văn bản phải đúng thẩm quyền và bảo đảm bí mật"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Tài sản cố định hữu hình bao gồm:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c"
+    ],
+    "choices": {
+      "a": "Nhà cửa, vật tư kiến trúc",
+      "b": "Phần mềm",
+      "c": "Phương tiện vận tải, thiết bị truyền dẫn, máy móc"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Tài sản cố định vô hình bao gồm:",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Quyền sử dụng đất",
+      "b": "Máy móc, phần mềm",
+      "c": "Hệ thống camera quan sát"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Khi được nhận tài sản, thiết bị từ P.Hành chính Quản trị, CBNV cần:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Nhận tài sản",
+      "b": "Nhận tài sản, ký nhận biên bản bàn giao với đơn vị giao"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Các tài sản nào sau đây được Trung tâm Công nghệ thông tin quản lý:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Hệ thống máy chủ và các tài sản liên quan, hệ thống máy tính",
+      "b": "Hệ thống máy chiếu màn chiếu",
+      "c": "Hệ thống bảng điện tử tivi"
+    }
+  },
+  {
+    "scope": "Nội quy công ty",
+    "content": "Các tài sản nào sau đây được Phòng Hành chính Quản trị quản lý:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b"
+    ],
+    "choices": {
+      "a": "Hệ thống đầu đọc thẻ an ninh và chấm công,",
+      "b": "Bàn ghế, cơ sở vật chất phục vụ công việc nói chung",
+      "c": "Hệ thống camera quan sát"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Theo định nghĩa của ISO 27000, “Thông tin” là:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Dữ liệu điện tử được lưu trữ trên máy tính",
+      "b": "Những hiểu biết có được về một thực thể nào đó",
+      "c": "Số liệu tài chính của doanh nghiệp",
+      "d": "Tài sản vật lý quan trọng của tổ chức"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Tam giác bảo mật CIA bao gồm:",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Confidentiality – Integrity – Availability",
+      "b": "Control – Isolation – Access",
+      "c": "Communication – Identity – Access",
+      "d": "Confidentiality – Information – Authentication"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "“Integrity” thể hiện rằng:",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Thông tin không bị thay đổi trái phép",
+      "b": "Thông tin chỉ được truy cập bởi người có quyền",
+      "c": "Thông tin luôn sẵn sàng",
+      "d": "Thông tin được mã hóa an toàn"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Khi hệ thống bị tấn công DDoS dẫn đến gián đoạn, yếu tố nào trong CIA bị ảnh hưởng?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Confidentiality",
+      "b": "Integrity",
+      "c": "Availability",
+      "d": "Authentication"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Biện pháp nào giúp bảo đảm tính toàn vẹn dữ liệu?",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Giới hạn truy cập",
+      "b": "Sử dụng chữ ký số",
+      "c": "Mã hóa dữ liệu",
+      "d": "Kiểm tra checksum định kỳ"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Mật khẩu mạnh cần có những đặc điểm nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c"
+    ],
+    "choices": {
+      "a": "Ít nhất 8 ký tự, gồm chữ hoa, thường, số, ký tự đặc biệt",
+      "b": "Dễ nhớ, giống nhau ở mọi hệ thống",
+      "c": "Không chia sẻ với người khác",
+      "d": "Không bao giờ thay đổi mật khẩu"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Hành vi nào giúp bảo vệ tài khoản truy cập?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Không chia sẻ mật khẩu",
+      "b": "Khóa màn hình khi rời bàn",
+      "c": "Dán mật khẩu lên màn hình",
+      "d": "Sử dụng xác thực hai lớp"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Khi nghi ngờ mật khẩu bị lộ, bạn nên:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "d"
+    ],
+    "choices": {
+      "a": "Đổi mật khẩu ngay",
+      "b": "Ghi ra giấy để lưu lại",
+      "c": "Tiếp tục dùng cho quen",
+      "d": "Báo cho bộ phận IT"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Các yếu tố nào dưới đây giúp đảm bảo xác thực người dùng?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Mật khẩu",
+      "b": "Mã OTP",
+      "c": "Dấu vân tay",
+      "d": "Tên hiển thị"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Trong quy định truy cập hệ thống SHS, điều nào bị cấm?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Dùng xác thực công ty",
+      "b": "Truy cập qua VPN bảo mật",
+      "c": "Chia sẻ tài khoản cho người khác",
+      "d": "Đăng nhập bằng thiết bị công ty"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Các hành vi nào giúp phòng tránh email lừa đảo (phishing)?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Kiểm tra kỹ địa chỉ người gửi",
+      "b": "Mở ngay tệp đính kèm",
+      "c": "Báo cho bộ phận IT",
+      "d": "Không nhấp vào liên kết lạ"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Email nào sau đây tiềm ẩn nguy cơ tấn công?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Email nội bộ có chữ ký công ty",
+      "b": "Email từ đối tác đã xác minh",
+      "c": "Email yêu cầu cung cấp mật khẩu",
+      "d": "Email từ nhóm IT công ty"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Hành vi nào sau đây là đúng khi sử dụng Internet tại công ty?",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Truy cập mạng xã hội bằng tài khoản cá nhân",
+      "b": "Không truy cập website độc hại",
+      "c": "Cài tiện ích mở rộng lạ",
+      "d": "Tuân thủ chính sách truy cập"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Dấu hiệu nhận biết email giả mạo:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Địa chỉ người gửi không rõ nguồn",
+      "b": "Có lỗi chính tả, cú pháp bất thường",
+      "c": "Gửi từ tên miền công ty thật",
+      "d": "Đính kèm link rút gọn lạ"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Khi cần chia sẻ tài liệu nội bộ qua email, bạn nên:",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Gửi qua Gmail cá nhân",
+      "b": "Dùng hệ thống email công ty",
+      "c": "Đính kèm file đã mã hóa",
+      "d": "Chia sẻ link công khai"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Nguyên tắc 'Bàn làm việc sạch' yêu cầu:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Không đặt vật dụng cá nhân",
+      "b": "Không để lộ tài liệu nhạy cảm",
+      "c": "Luôn khóa ngăn kéo",
+      "d": "Chỉ dọn cuối tuần"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Nguyên tắc 'Màn hình sạch' nghĩa là:",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Không đặt hình nền cá nhân",
+      "b": "Khóa màn hình khi rời bàn",
+      "c": "Tắt máy sau giờ làm",
+      "d": "Không hiển thị thông tin nhạy cảm"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Khi in tài liệu Mật hoặc Tuyệt mật, bạn cần:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Để tài liệu tại máy in",
+      "b": "Thu hồi ngay sau khi in",
+      "c": "Đặt máy in tại khu chung",
+      "d": "Lưu thêm bản mềm trên desktop"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Các biện pháp bảo vệ dữ liệu cá nhân trên thiết bị di động:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Cài mật khẩu hoặc vân tay",
+      "b": "Không cài ứng dụng lạ",
+      "c": "Gỡ phần mềm diệt virus",
+      "d": "Cập nhật hệ điều hành"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Khi thiết bị bị mất, bạn nên:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "d"
+    ],
+    "choices": {
+      "a": "Báo ngay cho IT",
+      "b": "Mua thiết bị khác",
+      "c": "Bỏ qua nếu dữ liệu không quan trọng",
+      "d": "Khóa tài khoản từ xa"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Khi phát hiện email lạ có tệp nghi ngờ, bạn nên:",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Mở để kiểm tra nội dung",
+      "b": "Xóa ngay",
+      "c": "Báo cho bộ phận IT",
+      "d": "Chuyển tiếp cho đồng nghiệp"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Khi phát hiện máy tính bị nhiễm mã độc:",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Cài thêm phần mềm ngẫu nhiên",
+      "b": "Ngắt kết nối mạng",
+      "c": "Tiếp tục làm việc bình thường",
+      "d": "Báo cho bộ phận IT"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Hành động nào giúp đảm bảo sẵn sàng hệ thống (Availability)?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Sao lưu định kỳ",
+      "b": "Có máy chủ dự phòng",
+      "c": "Giới hạn truy cập",
+      "d": "Theo dõi tình trạng hoạt động"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Các bước xử lý sự cố an toàn thông tin đúng quy trình:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Phát hiện",
+      "b": "Báo cáo",
+      "c": "Chia sẻ bên ngoài",
+      "d": "Khắc phục và theo dõi"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Đối với dữ liệu sao lưu, cần đảm bảo:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b"
+    ],
+    "choices": {
+      "a": "Được lưu trữ tách biệt",
+      "b": "Kiểm tra định kỳ khả năng phục hồi",
+      "c": "Không cần mã hóa",
+      "d": "Chỉ lưu bản cuối"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Tình huống nào vi phạm tính Confidentiality?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Dữ liệu bị xóa nhầm",
+      "b": "Người lạ truy cập trái phép",
+      "c": "Máy chủ ngưng hoạt động",
+      "d": "File bị mã hóa sai"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Ví dụ nào thể hiện vi phạm Integrity?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Mất quyền truy cập tạm thời",
+      "b": "Email bị đọc trộm",
+      "c": "Dữ liệu bị sửa sai lệch",
+      "d": "Mật khẩu bị lộ"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Biện pháp giúp duy trì Availability:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Sao lưu dữ liệu",
+      "b": "Có hệ thống dự phòng",
+      "c": "Mã hóa dữ liệu",
+      "d": "Theo dõi uptime"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Không nên lưu mật khẩu dưới hình thức nào?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Trình quản lý mật khẩu bảo mật",
+      "b": "Hệ thống nội bộ đã phân quyền",
+      "c": "File Word trên desktop",
+      "d": "Ứng dụng bảo mật của công ty"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Hành động nào không nên khi nhận link lạ?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Kiểm tra kỹ URL",
+      "b": "Báo IT",
+      "c": "Nhấp để xem thử",
+      "d": "Bỏ qua nếu nghi ngờ"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Quy định khi lưu tài liệu Tuyệt mật:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Lưu tạm trên desktop",
+      "b": "Lưu trong hệ thống có phân quyền",
+      "c": "Gửi qua email cá nhân",
+      "d": "Đặt trên ổ đĩa chia sẻ công cộng"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Báo cáo sự cố ATTT nên gửi đến:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Bất kỳ đồng nghiệp",
+      "b": "Bộ phận IT hoặc An ninh thông tin",
+      "c": "Đối tác bên ngoài",
+      "d": "Đăng lên mạng nội bộ"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Các biện pháp kỹ thuật hỗ trợ bảo mật thông tin:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Firewall",
+      "b": "Hệ thống IDS/IPS",
+      "c": "Email marketing",
+      "d": "Mã hóa dữ liệu"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Xác thực hai lớp (2FA) giúp tăng cường yếu tố nào?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Confidentiality",
+      "b": "Availability",
+      "c": "Integrity",
+      "d": "Transparency"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Tác hại chính của việc click vào link phishing:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c"
+    ],
+    "choices": {
+      "a": "Lộ thông tin cá nhân",
+      "b": "Tăng tốc trình duyệt",
+      "c": "Cài đặt mã độc",
+      "d": "Giảm nguy cơ spam"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Tại sao cần kiểm soát thiết bị lưu trữ USB?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b"
+    ],
+    "choices": {
+      "a": "Tránh phát tán mã độc",
+      "b": "Tránh rò rỉ dữ liệu",
+      "c": "Giúp tăng tốc sao chép",
+      "d": "Giảm chi phí bảo trì"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Mục tiêu cuối cùng của việc sao lưu dữ liệu:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Tăng tốc lưu trữ",
+      "b": "Khôi phục hệ thống khi có sự cố",
+      "c": "Giảm dung lượng ổ cứng",
+      "d": "Phân quyền người dùng"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Mối quan hệ giữa ba yếu tố CIA là:",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Hoàn toàn độc lập",
+      "b": "Không liên quan nhau",
+      "c": "Cần cân bằng trong từng bối cảnh",
+      "d": "Confidentiality quan trọng nhất"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Quy tắc thay đổi mật khẩu trong SHS là:",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Định kỳ 90 ngày",
+      "b": "Không bao giờ đổi",
+      "c": "Khi hệ thống yêu cầu",
+      "d": "Tùy ý người dùng"
+    }
+  },
+  {
+    "scope": "Bảo mật thông tin",
+    "content": "Tại sao cần đào tạo ATTT định kỳ cho nhân viên?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Nâng cao nhận thức",
+      "b": "Giảm rủi ro con người",
+      "c": "Giảm chi phí IT",
+      "d": "Tăng khả năng phản ứng với sự cố"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Bộ nhận diện thương hiệu SHS hiện nay được chính thức ra mắt vào thời điểm nào?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Năm 2022",
+      "b": "Năm 2023",
+      "c": "Năm 2024",
+      "d": "Năm 2025"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Slogan chính thức tiếng Việt của SHS hiện nay là gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Biến cơ hội thành giá trị",
+      "b": "Kiến tạo tài chính thịnh vượng",
+      "c": "Đồng hành cùng khách hàng",
+      "d": "Tài chính thịnh vượng"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Slogan tiếng Anh của SHS hiện nay là gì?",
+    "type": "single",
+    "answers": [
+      "d"
+    ],
+    "choices": {
+      "a": "Wealth Management",
+      "b": "Financial Success",
+      "c": "Wealth For All",
+      "d": "Empower Financial Prosperity"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Chú ý quan trọng khi sử dụng logo SHS là gì?",
+    "type": "single",
+    "answers": [
+      "d"
+    ],
+    "choices": {
+      "a": "Có thể đổi màu để phù hợp từng thiết kế",
+      "b": "Có thể thay đổi font chữ trong logo",
+      "c": "Được phép thay khẩu hiệu cá nhân vào logo",
+      "d": "Sử dụng đúng một trong các biến thể của logo được quy định, không được bóp méo, kéo giãn sai tỷ lệ hoặc chèn hiệu ứng sai quy chuẩn"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Bộ màu thương hiệu của SHS hiện hành sử dụng bảng màu chủ đạo nào?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Đỏ – Trắng – Vàng",
+      "b": "Xanh Navy – Cam – Vàng",
+      "c": "Xanh lá – Trắng – Đen",
+      "d": "Tím – Hồng – Vàng"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Khi nhân viên muốn sử dụng tên thương hiệu và hình ảnh SHS để tạo các website, trang Mạng xã hội (Facebook, Zalo, TikTok…), cần:",
+    "type": "single",
+    "answers": [
+      "d"
+    ],
+    "choices": {
+      "a": "Tự do tạo như ý muốn",
+      "b": "Xin phép quản lý trực tiếp",
+      "c": "Không cần kiểm duyệt, miễn thông tin và hình ảnh đúng sự thật",
+      "d": "Tuân thủ quy định truyền thông của công ty và xin ý kiến Phòng Marketing & Truyền thông"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Đối với tài liệu của công ty cho khách hàng (bản chào, mẫu biểu, poster,…) và tài liệu nội bộ (bản tin đào tạo, bản tin nhân sự, tài liệu đào tạo...), bộ phận nào có trách nhiệm kiểm duyệt về mặt hình ảnh thương hiệu trước khi phát hành?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Không cần kiểm duyệt",
+      "b": "Ban Tổ chức Nhân sự & Hành chính",
+      "c": "Phòng Marketing & Truyền thông",
+      "d": "Ban Pháp chế, Kiểm soát & Quản trị rủi ro"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Phông chữ thiết kế chính thức trong hệ thống nhận diện thương hiệu SHS là loại nào?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Arial",
+      "b": "Montserrat",
+      "c": "Inter",
+      "d": "Không có quy định"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Phông chữ soạn thảo văn bản chính thức trong hệ thống nhận diện thương hiệu SHS là loại nào?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Arial",
+      "b": "Montserrat",
+      "c": "Inter",
+      "d": "Không có quy định"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Khi có sự cố truyền thông, đơn vị nào chịu trách nhiệm phát ngôn chính thức ra bên ngoài?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Cá nhân lãnh đạo phòng ban liên quan",
+      "b": "Phòng Marketing & Truyền thông hoặc Người phát ngôn được HĐQT/TGĐ ủy quyền",
+      "c": "Mọi nhân viên đều có thể phát ngôn nếu biết thông tin",
+      "d": "Ban Pháp chế, Kiểm soát & Quản trị rủi ro"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Những yếu tố nào KHÔNG được phép chỉnh sửa trong logo SHS?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Màu sắc",
+      "b": "Tỷ lệ",
+      "c": "Font chữ",
+      "d": "Khoảng cách giữa các yếu tố"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Biểu tượng thương hiệu (Logo) của SHS được thiết kế với hình ảnh hai chữ S song hành tạo thành dải lụa vươn lên, mang theo ý nghĩa gì?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b"
+    ],
+    "choices": {
+      "a": "\"Thành công\" (Success) và \"Bền vững\" (Sustainability)",
+      "b": "Sự kết nối bền chặt giữa SHS và Khách hàng, không ngừng vươn tới những thành tựu mới",
+      "c": "\"Tốc độ\" (Speed) và \"Bảo mật\" (Securtity)",
+      "d": "Saigon và Securities"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Khi soạn thảo một văn bản nội bộ, cần tuân thủ những yếu tố nào?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Màu sắc thương hiệu",
+      "b": "Font chữ",
+      "c": "Logo SHS đúng quy định",
+      "d": "Có sự phê duyệt của Phòng Marketing & Truyền thông trước khi ban hành"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Đâu KHÔNG phải là kênh truyền thông chính thức của SHS?",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Website www.shs.com.vn",
+      "b": "Website do CBNV tự tạo",
+      "c": "Trang Facebook page do CBNV tự tạo",
+      "d": "Zalo cá nhân của CBNV"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "CBNV có thể nhận bộ Tài liệu nhận diện thương hiệu của SHS bằng cách nào",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Tìm kiếm trên Google",
+      "b": "Liên hệ Phòng Marketing & Truyền thông",
+      "c": "Sử dụng ChatGPT",
+      "d": "Tải trên hệ thống HRM"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Các hành vi nào được coi là vi phạm quy định truyền thông?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Đăng tải thông tin chưa kiểm chứng về công ty lên mạng xã hội",
+      "b": "Sử dụng logo SHS sai quy chuẩn",
+      "c": "Phát ngôn thay mặt công ty khi chưa được ủy quyền",
+      "d": "Chia sẻ lại tin tức được đăng tải công khai trên website www.shs.com.vn trên trang cá nhân"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Các yếu tố chính của bộ nhận diện thương hiệu SHS bao gồm",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Logo",
+      "b": "Màu sắc thương hiệu",
+      "c": "Font chữ chuẩn",
+      "d": "Biểu tượng linh vật SHS"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Mục tiêu chính của việc chuẩn hóa hình ảnh, nội dung trong hoạt động truyền thông thương hiệu trong công ty là",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Đảm bảo tính thống nhất hình ảnh thương hiệu",
+      "b": "Tăng tính chuyên nghiệp khi tiếp xúc khách hàng",
+      "c": "Tiết kiệm chi phí",
+      "d": "Tránh rủi ro sai lệch thông tin"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Khi có nhu cầu thiết kế tài liệu truyền thông, các phòng ban cần",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Được quyền sử dụng hình ảnh thương hiệu & logo SHS tùy ý",
+      "b": "Nếu tự thiết kế, gửi Phòng Marketing & Truyền thông review",
+      "c": "Gửi yêu cầu thiết kế đến Phòng Marketing & Truyền thông",
+      "d": "Nếu tự thiết kế, gửi Phòng Marketing & Truyền thông review"
+    }
+  },
+  {
+    "scope": "Nhân diện thương hiệu và truyền thông",
+    "content": "Nếu được các cơ quan truyền thông báo chí liên hệ hỏi thông tin, CBNV SHS cần:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "d"
+    ],
+    "choices": {
+      "a": "Chuyển thông tin tới Phòng Marketing & Truyền thông",
+      "b": "Tự do cung cấp thông tin, miễn không sai lệch thông tin",
+      "c": "Chỉ cung cấp thông tin khi đó là lĩnh vực mình phụ trách trực tiếp",
+      "d": "Tuân thủ tuyệt đối quy định công bố thông tin và không tự ý phát ngôn dưới bất kỳ hình thức nào"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Công ty chứng khoán chủ yếu cung cấp dịch vụ nào sau đây?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Sản xuất hàng hóa",
+      "b": "Dịch vụ tài chính – chứng khoán",
+      "c": "Xuất nhập khẩu hàng hóa",
+      "d": "Dịch vụ vận tải"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Ai có quyền giám sát hoạt động của các công ty chứng khoán ở Việt Nam?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Ngân hàng Nhà nước Việt Nam",
+      "b": "Ủy ban Chứng khoán Nhà nước (UBCKNN)",
+      "c": "Tổng cục thống kê",
+      "d": "Sở Kế hoạch và Đầu tư"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Khi khách hàng muốn mở tài khoản chứng khoán, họ phải cung cấp gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Sổ hộ khẩu",
+      "b": "Căn cước công dân",
+      "c": "Giấy phép lái xe",
+      "d": "Hợp đồng lao động"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Để được hành nghề môi giới chứng khoán, cá nhân cần có gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Giấy phép lái xe",
+      "b": "Chứng chỉ hành nghề chứng khoán",
+      "c": "Thẻ nhân viên ngân hàng",
+      "d": "Giấy phép kinh doanh"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Công ty chứng khoán có thể thực hiện những nghiệp vụ nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Môi giới chứng khoán",
+      "b": "Tự doanh chứng khoán",
+      "c": "Tư vấn đầu tư chứng khoán"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Loại chứng khoán nào dưới đây được coi là chứng khoán cơ sở?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Cổ phiếu, trái phiếu",
+      "b": "Hợp đồng tương lai",
+      "c": "Quyền chọn mua cổ phiếu",
+      "d": "Hợp đồng quyền chọn"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Một lô giao dịch cổ phiếu trên sàn HOSE tối thiểu là bao nhiêu cổ phiếu?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "1 cổ phiếu",
+      "b": "10 cổ phiếu",
+      "c": "100 cổ phiếu",
+      "d": "1000 cổ phiếu"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Trên thị trường chứng khoán, “thanh khoản” thể hiện điều gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Khả năng sinh lời của cổ phiếu",
+      "b": "Khả năng chuyển đổi chứng khoán thành tiền mặt nhanh chóng",
+      "c": "Khả năng trả cổ tức đều đặn",
+      "d": "Mức độ biến động giá cổ phiếu"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Trên thị trường chứng khoán, từ viết tắt IPO nghĩa là gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "International Public Order",
+      "b": "Initial Public Offering – Phát hành cổ phiếu lần đầu ra công chúng",
+      "c": "Internal Private Offering",
+      "d": "Investment Portfolio Option"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Khi mua cổ phiếu, nhà đầu tư sẽ trở thành:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Chủ nợ của công ty",
+      "b": "Chủ sở hữu một phần công ty",
+      "c": "Người quản lý công ty",
+      "d": "Người cho vay công ty"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Khi mua trái phiếu, nhà đầu tư sẽ trở thành:",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Cổ đông",
+      "b": "Người sở hữu vốn góp",
+      "c": "Chủ nợ của công ty/tổ chức phát hành",
+      "d": "Người đồng quản lý công ty"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Khi công ty niêm yết chia cổ tức bằng cổ phiếu, nhà đầu tư sẽ:",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Nhận thêm cổ phiếu vào tài khoản",
+      "b": "Nhận tiền mặt trực tiếp",
+      "c": "Được quyền quản lý công ty",
+      "d": "Bị giảm giá trị đầu tư"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Biên độ dao động giá cổ phiếu trên sàn HOSE hiện nay là:",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "±3%",
+      "b": "±5%",
+      "c": "±7%",
+      "d": "±10%"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Khi tư vấn đầu tư, nguyên tắc \"PHÙ HỢP\" đòi hỏi nhân viên môi giới phải làm gì?",
+    "type": "single",
+    "answers": [
+      "d"
+    ],
+    "choices": {
+      "a": "Thực hiện lệnh giao dịch ngay lập tức theo yêu cầu bằng miệng của khách hàng mà không cần ghi âm.",
+      "b": "Luôn khuyến nghị khách hàng mua các cổ phiếu có vốn hóa lớn (Blue-chips) để đảm bảo an toàn vốn.",
+      "c": "Đảm bảo lợi nhuận tối thiểu cho khách hàng theo cam kết bằng văn bản.",
+      "d": "Đánh giá mức độ hiểu biết, kinh nghiệm đầu tư, khả năng tài chính và khả năng chịu rủi ro của khách hàng trước khi đưa ra khuyến nghị."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Theo Luật Chứng khoán 2019, một công ty cổ phần trở thành công ty đại chúng khi đáp ứng điều kiện nào sau đây?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Vốn điều lệ đã góp từ 10 tỷ đồng trở lên và có tối thiểu 100 nhà đầu tư không phải là cổ đông lớn.",
+      "b": "Vốn điều lệ đã góp từ 10 tỷ đồng trở lên và có tối thiểu 200 nhà đầu tư, trừ cổ đông lớn, sở hữu từ 10% tổng số cổ phần có quyền biểu quyết trở lên.",
+      "c": "Vốn điều lệ đã góp từ 30 tỷ đồng trở lên và có tối thiểu 100 nhà đầu tư, trừ cổ đông lớn, sở hữu từ 10% tổng số cổ phần có quyền biểu quyết trở lên.",
+      "d": "Vốn điều lệ đã góp từ 50 tỷ đồng trở lên và có tối thiểu 50 nhà đầu tư."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Các hành vi bị nghiêm cấm trong hoạt động về chứng khoán và thị trường chứng khoán",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Trực tiếp hoặc gián tiếp thực hiện hành vi gian lận, lừa đảo, làm giả tài liệu, tạo dựng thông tin sai sự thật hoặc công bố thông tin sai lệch hoặc che giấu thông tin hoặc bỏ sót thông tin cần thiết gây hiểu nhầm nghiêm trọng làm ảnh hưởng đến hoạt động chào bán, niêm yết, giao dịch, kinh doanh, đầu tư chứng khoán, cung cấp dịch vụ về chứng khoán",
+      "b": "Thực hiện hoạt động kinh doanh chứng khoán, cung cấp dịch vụ về chứng khoán khi chưa được Ủy ban Chứng khoán Nhà nước cấp giấy phép, cấp giấy chứng nhận hoặc chấp thuận.",
+      "c": "Sử dụng tài khoản, tài sản của khách hàng khi không được khách hàng ủy thác hoặc trái quy định của pháp luật hoặc lạm dụng tín nhiệm để chiếm đoạt tài sản của khách hàng."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Chức năng của hệ thống đăng ký, lưu ký, thanh toán bù trừ chứng khoán:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Quản lý các chứng khoán lưu ký của khách hàng",
+      "b": "Ghi nhận quyền sở hữu",
+      "c": "Cung cấp thông tin về chứng khoán giả mạo, bị mất cắp",
+      "d": "Phân phối lãi, trả vốn gốc và cổ tức bằng tiền mặt cho người sở hữu chứng khoán"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Chứng chỉ hành nghề chứng khoán được cấp cho cá nhân đáp ứng các điều kiện sau đây",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Có năng lực hành vi dân sự đầy đủ; không thuộc trường hợp đang bị truy cứu trách nhiệm hình sự hoặc đang bị cấm hành nghề chứng khoán theo quy định của pháp luật;",
+      "b": "Có trình độ từ đại học trở lên; Có trình độ chuyên môn về chứng khoán;",
+      "c": "Đạt yêu cầu trong kỳ thi sát hạch cấp chứng chỉ hành nghề chứng khoán phù hợp với loại chứng chỉ hành nghề chứng khoán đề nghị cấp"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Chứng khoán được định nghĩa là bằng chứng xác nhận quyền và lợi ích hợp pháp của người sở hữu đối với:",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Giá trị vốn hóa của toàn bộ thị trường.",
+      "b": "Khoản nợ phải trả của nhà đầu tư.",
+      "c": "Tài sản hoặc phần vốn của tổ chức phát hành.",
+      "d": "Phần vốn điều lệ của công ty chứng khoán."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Cổ phiếu quỹ là:",
+    "type": "single",
+    "answers": [
+      "d"
+    ],
+    "choices": {
+      "a": "Cổ phiếu phát hành lần đầu ra công chúng (IPO)",
+      "b": "Cổ phiếu phát hành bổ sung",
+      "c": "Cổ phiếu phát hành riêng lẻ",
+      "d": "Cổ phiếu được tổ chức phát hành mua lại"
+    }
+  },
+  {
+    "scope": "Môi giới chứng khoán",
+    "content": "Công ty chứng khoán được phép nhận lệnh của khách hàng qua:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Trực tiếp tại sàn giao dịch.",
+      "b": "Qua điện thoại ghi âm.",
+      "c": "Qua hệ thống giao dịch trực tuyến"
+    }
+  },
+  {
+    "scope": "Tư vấn tài chính và Bảo lãnh phát hành",
+    "content": "Dịch vụ tư vấn tài chính của công ty chứng khoán bao gồm",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Tư vấn niêm yết.",
+      "b": "Tư vấn cổ phần hóa, M&A.",
+      "c": "Tư vấn tái cấu trúc vốn."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Điều kiện về vốn điều lệ để đáp ứng điều kiện chào bán cổ phiếu lần đầu ra công chúng là bao nhiêu?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Mức vốn điều lệ đã góp tại thời điểm đăng ký chào bán từ 30 tỷ đồng trở lên tính theo giá trị ghi trên sổ kế toán;",
+      "b": "Mức vốn điều lệ đã góp tại thời điểm đăng ký chào bán từ 30 tỷ đồng trở lên tính theo giá trị thị trường",
+      "c": "Mức vốn điều lệ đã góp tại thời điểm đăng ký chào bán từ 50 tỷ đồng trở lên tính theo giá trị ghi trên sổ kế toán;",
+      "d": "Mức vốn điều lệ đã góp tại thời điểm đăng ký chào bán từ 50 tỷ đồng trở lên tính theo giá trị thị trường"
+    }
+  },
+  {
+    "scope": "Tư vấn tài chính và Bảo lãnh phát hành",
+    "content": "Đối tượng nào không thuộc dịch vụ tư vấn tài chính của công ty chứng khoán theo Luật Chứng khoán?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Tư vấn quản trị doanh nghiệp.",
+      "b": "Tư vấn đầu tư bất động sản dân dụng.",
+      "c": "Tư vấn phát hành chứng khoán.",
+      "d": "Tư vấn cổ phần hóa DNNN."
+    }
+  },
+  {
+    "scope": "Lưu ký chứng khoán",
+    "content": "Đối với trái phiếu doanh nghiệp đã lưu ký tại VSDC, khi đến hạn trả lãi, ai là đơn vị phân bổ lãi cho nhà đầu tư?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Sở Giao dịch Chứng khoán.",
+      "b": "Doanh nghiệp phát hành trực tiếp cho NĐT.",
+      "c": "VSDC thông qua thành viên lưu ký.",
+      "d": "Ngân hàng Nhà nước."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Hành vi nào sau đây được coi là \"sử dụng thông tin nội bộ\" theo Luật Chứng khoán?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Sử dụng một hoặc nhiều tài khoản giao dịch để tạo cung, cầu giả tạo nhằm thao túng giá.",
+      "b": "Công ty chứng khoán cho khách hàng mượn tài khoản để giao dịch chứng khoán.",
+      "c": "Tiết lộ, cung cấp thông tin nội bộ hoặc tư vấn cho người khác mua, bán chứng khoán trên cơ sở thông tin nội bộ.",
+      "d": "Tổ chức thị trường giao dịch chứng khoán trái quy định của Luật Chứng khoán."
+    }
+  },
+  {
+    "scope": "Lưu ký chứng khoán",
+    "content": "Khi nhà đầu tư muốn chuyển chứng khoán từ công ty chứng khoán A sang công ty chứng khoán B, thủ tục bắt buộc là gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Làm thủ tục rút chứng khoán bằng tiền mặt.",
+      "b": "Thực hiện lệnh chuyển khoản chứng khoán lưu ký tại VSDC.",
+      "c": "Bán chứng khoán ở A, mua lại ở B.",
+      "d": "Ủy quyền cho ngân hàng thương mại."
+    }
+  },
+  {
+    "scope": "Môi giới chứng khoán",
+    "content": "Khi phát hiện có xung đột lợi ích giữa khách hàng và công ty chứng khoán, nhân viên môi giới phải thực hiện",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Giữ bí mật, không thông báo cho khách hàng.",
+      "b": "Ưu tiên lợi ích công ty.",
+      "c": "Thông báo và giải thích rõ ràng cho khách hàng.",
+      "d": "Tự ý điều chỉnh lệnh khách hàng để tránh rủi ro."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Luật Chứng khoán 2019 quy định cơ quan nào chịu trách nhiệm trước Chính phủ thực hiện chức năng quản lý nhà nước về chứng khoán và thị trường chứng khoán?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Bộ Tài Chính",
+      "b": "Tổng công ty Lưu ký và Bù trừ Chứng khoán Việt Nam (VSDC).",
+      "c": "Ủy ban Chứng khoán Nhà nước (UBCKNN).",
+      "d": "Sở Giao dịch Chứng khoán Việt Nam (VNX)."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Mệnh giá cổ phiếu chào bán ra công chúng là bao nhiêu",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "100 nghìn đồng và bội số của 100 nghìn đồng",
+      "b": "10 nghìn đồng và bội số của 10 nghìn đồng",
+      "c": "10 nghìn đồng",
+      "d": "100 nghìn đồng"
+    }
+  },
+  {
+    "scope": "Môi giới chứng khoán",
+    "content": "Môi giới chứng khoán là gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Hoạt động mua bán chứng khoán cho chính công ty chứng khoán.",
+      "b": "Hoạt động làm trung gian thực hiện mua bán chứng khoán cho khách hàng để hưởng hoa hồng.",
+      "c": "Hoạt động đầu tư tự doanh của công ty chứng khoán.",
+      "d": "Hoạt động phát hành chứng khoán ra công chúng."
+    }
+  },
+  {
+    "scope": "Lưu ký chứng khoán",
+    "content": "Mỗi nhà đầu tư được mở bao nhiêu tài khoản lưu ký tại mỗi thành viên lưu ký?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Không giới hạn.",
+      "b": "Tối đa 02 tài khoản.",
+      "c": "Tối đa 01 tài khoản.",
+      "d": "Tùy quy định của công ty chứng khoán."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Một giao dịch bị coi là \"ĐÁNG NGỜ\" trong lĩnh vực chứng khoán khi có dấu hiệu nào sau đây?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Khách hàng luôn giao dịch chứng khoán ở mức giá trần.",
+      "b": "Khách hàng vay ký quỹ (margin) từ công ty chứng khoán.",
+      "c": "Khách hàng thực hiện nhiều giao dịch chuyển tiền/chuyển chứng khoán qua lại giữa các tài khoản mà không có lý do kinh tế rõ ràng.",
+      "d": "Khách hàng thường xuyên mua bán chứng khoán với khối lượng nhỏ, tần suất thấp."
+    }
+  },
+  {
+    "scope": "Lưu ký chứng khoán",
+    "content": "Ngày đăng ký cuối cùng trong lưu ký chứng khoán có ý nghĩa gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Ngày nhà đầu tư được quyền giao dịch chứng khoán.",
+      "b": "Ngày xác định danh sách cổ đông được hưởng quyền.",
+      "c": "Ngày chốt giá tham chiếu.",
+      "d": "Ngày cổ phiếu lên sàn giao dịch."
+    }
+  },
+  {
+    "scope": "Môi giới chứng khoán",
+    "content": "Nghĩa vụ quan trọng nhất của nhân viên môi giới chứng khoán khi phục vụ khách hàng là gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Đảm bảo lợi nhuận cho khách hàng.",
+      "b": "Tuân thủ nguyên tắc ưu tiên lợi ích khách hàng.",
+      "c": "Chỉ tư vấn sản phẩm có phí cao.",
+      "d": "Bảo mật thông tin nội bộ công ty chứng khoán."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Người hành nghề chứng khoán KHÔNG ĐƯỢC thực hiện các hành vi nào trong các hành vi sau",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Đồng thời làm việc cho từ 02 công ty chứng khoán",
+      "b": "Mở, quản lý tài khoản giao dịch chứng khoán tại công ty chứng khoán nơi mình không làm việc,",
+      "c": "Thực hiện hành vi vượt quá phạm vi ủy quyền của công ty chứng khoán"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Nguyên tắc nào sau đây \"KHÔNG\" phải là nguyên tắc hoạt động về chứng khoán và thị trường chứng khoán được quy định trong Luật Chứng khoán 2019?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Tôn trọng quyền sở hữu, quyền khác đối với tài sản.",
+      "b": "Nhà nước bảo hộ lợi nhuận đầu tư tối thiểu.",
+      "c": "Công bằng, công khai, minh bạch.",
+      "d": "Tự chịu trách nhiệm về rủi ro."
+    }
+  },
+  {
+    "scope": "Tư vấn tài chính và Bảo lãnh phát hành",
+    "content": "Nguyên tắc quan trọng nhất khi công ty chứng khoán cung cấp dịch vụ tư vấn tài chính là gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Chỉ ưu tiên lợi ích công ty chứng khoán.",
+      "b": "Đặt lợi ích khách hàng lên hàng đầu, tuân thủ quy định pháp luật.",
+      "c": "Cam kết lợi nhuận cho khách hàng.",
+      "d": "Giữ bí mật thông tin nội bộ công ty chứng khoán."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Sau khi trở thành Công ty đại chúng, công ty phải nộp hồ sơ đăng ký công ty đại chúng cho UBCKNN trong thời hạn bao nhiêu ngày kể từ ngày đáp ứng đủ điều kiện?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "30 ngày.",
+      "b": "10 ngày.",
+      "c": "90 ngày.",
+      "d": "60 ngày."
+    }
+  },
+  {
+    "scope": "Lưu ký chứng khoán",
+    "content": "Thành viên lưu ký bao gồm:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b"
+    ],
+    "choices": {
+      "a": "Các công ty chứng khoán được VSDC chấp thuận.",
+      "b": "Các ngân hàng thương mại được VSDC chấp thuận.",
+      "c": "Các công ty phát hành chứng khoán."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Theo Luật Chứng khoán 2019, sau khi chào bán chứng khoán ra công chúng kết thúc, công ty phải nộp báo cáo kết quả chào bán cho UBCKNN trong thời hạn bao nhiêu ngày?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "10 ngày.",
+      "b": "15 ngày.",
+      "c": "05 ngày.",
+      "d": "07 ngày."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Theo Luật Chứng khoán và quy tắc đạo đức nghề nghiệp, hành vi nào sau đây bị nghiêm cấm đối với nhân viên môi giới chứng khoán (Broker)?",
+    "type": "single",
+    "answers": [
+      "d"
+    ],
+    "choices": {
+      "a": "Tư vấn cho khách hàng về các sản phẩm chứng khoán phái sinh.",
+      "b": "Lưu giữ hồ sơ mở tài khoản của khách hàng.",
+      "c": "Thực hiện giao dịch theo lệnh ủy quyền bằng văn bản của khách hàng.",
+      "d": "Sử dụng thông tin về khách hàng và giao dịch của khách hàng để trục lợi cá nhân hoặc tiết lộ cho bên thứ ba không có thẩm quyền."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Theo Luật Chứng khoán Việt Nam, nghiệp vụ \"Bảo lãnh phát hành chứng khoán\" thuộc về tổ chức nào?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Công ty chứng khoán được cấp phép nghiệp vụ Bảo lãnh phát hành.",
+      "b": "Tổng công ty Lưu ký và Bù trừ Chứng khoán Việt Nam (VSDC).",
+      "c": "Công ty quản lý quỹ.",
+      "d": "Ngân hàng thương mại."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Theo Luật Chứng khoán, Bản cáo bạch là tài liệu bắt buộc phải có trong hồ sơ đăng ký chào bán chứng khoán ra công chúng nhằm mục đích gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Là căn cứ để UBCKNN ra quyết định chấp thuận hồ sơ.",
+      "b": "Cung cấp thông tin đầy đủ, chính xác về đợt chào bán, tổ chức phát hành và các rủi ro liên quan cho nhà đầu tư.",
+      "c": "Làm căn cứ để công ty chứng khoán cấp tín dụng (margin) cho nhà đầu tư.",
+      "d": "Cung cấp thông tin về tình hình tài chính của Sở Giao dịch Chứng khoán."
+    }
+  },
+  {
+    "scope": "Lưu ký chứng khoán",
+    "content": "Theo Luật Chứng khoán, nhà đầu tư nước ngoài muốn mở tài khoản lưu ký chứng khoán tại Việt Nam cần thông qua:",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Ngân hàng lưu ký hoặc công ty chứng khoán thành viên lưu ký.",
+      "b": "Sở Giao dịch Chứng khoán.",
+      "c": "Ủy ban Chứng khoán Nhà nước.",
+      "d": "Ngân hàng Nhà nước."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Theo quy định hiện hành, công ty chứng khoán phải quản lý tiền và chứng khoán của khách hàng theo nguyên tắc nào?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Có thể gộp tài sản của nhiều khách hàng vào một tài khoản chung để tối ưu hóa quản lý.",
+      "b": "Được phép sử dụng một phần tài sản khách hàng để đầu tư nếu đã thông báo trước.",
+      "c": "Quản lý tách biệt (riêng biệt) tài sản của từng khách hàng và tài sản của công ty chứng khoán.",
+      "d": "Chỉ cần tách biệt tài sản đối với các khách hàng giao dịch ký quỹ (Margin)."
+    }
+  },
+  {
+    "scope": "Lưu ký chứng khoán",
+    "content": "Thời gian thanh toán chứng khoán cổ phiếu, chứng chỉ quỹ, chứng quyền có bảo đảm hiện nay theo thông lệ tại Việt Nam là:",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "T+0",
+      "b": "T+1",
+      "c": "T+2",
+      "d": "T+3"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Tổ chức phát hành thu được tiền khi",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Phát hành chứng khoán trên thị trường sơ cấp",
+      "b": "Phát hành chứng khoán trên thị trường thứ cấp",
+      "c": "Cả hai câu trên đều đúng",
+      "d": "Cả hai câu trên đều sai"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Tổ chức thực hiện bảo lãnh phát hành chứng khoán ra công chúng là công ty chứng khoán, tổ chức đáp ứng các điều kiện sau đây",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Được Ủy ban Chứng khoán Nhà nước cấp phép thực hiện hoạt động bảo lãnh phát hành chứng khoán",
+      "b": "Đáp ứng các chỉ tiêu an toàn tài chính theo quy định của pháp luật",
+      "c": "Không phải là người có liên quan với tổ chức phát hành"
+    }
+  },
+  {
+    "scope": "Tư vấn tài chính và Bảo lãnh phát hành",
+    "content": "Trong hoạt động tư vấn phát hành trái phiếu, công ty chứng khoán không được làm gì?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Chuẩn bị hồ sơ phát hành.",
+      "b": "Tư vấn phương án sử dụng vốn",
+      "c": "Cam kết mức lợi suất cho nhà đầu tư.",
+      "d": "Phân phối trái phiếu cho khách hàng."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Trong nghiệp vụ kinh doanh chứng khoán, công ty chứng khoán \"KHÔNG\" được thực hiện hành vi nào sau đây đối với tài sản của khách hàng?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Quản lý tài sản của từng khách hàng riêng biệt với tài sản của công ty.",
+      "b": "Sử dụng tài khoản, tài sản của khách hàng khi không được khách hàng ủy thác.",
+      "c": "Cung cấp dịch vụ lưu ký tài sản theo hợp đồng với khách hàng.",
+      "d": "Yêu cầu khách hàng bù đắp thiếu hụt tiền hoặc chứng khoán trong tài khoản ký quỹ theo hợp đồng."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Trường hợp giá chứng khoán của tổ chức phát hành trên hệ thống giao dịch chứng khoán thấp hơn mệnh giá",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Tổ chức phát hành được chào bán chứng khoán với giá thấp hơn mệnh giá",
+      "b": "Tổ chức phát hành được chào bán chứng khoán với cao hơn mệnh giá",
+      "c": "Tổ chức phát hành được chào bán chứng khoán với giá bằng mệnh giá",
+      "d": "Không có đáp án nào đúng"
+    }
+  },
+  {
+    "scope": "Tư vấn tài chính và Bảo lãnh phát hành",
+    "content": "Tư vấn tài chính khác với tư vấn đầu tư chứng khoán ở điểm nào?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Tư vấn tài chính liên quan đến cấu trúc vốn, huy động vốn; tư vấn đầu tư tập trung vào khuyến nghị mua bán chứng khoán.",
+      "b": "Tư vấn tài chính chỉ dành cho cá nhân.",
+      "c": "Tư vấn đầu tư chứng khoán bắt buộc phải ký hợp đồng dịch vụ.",
+      "d": "Cả 1 và 3."
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Các hành vi bị nghiêm cấm trong phòng, chống rửa tiền",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Tổ chức, tham gia hoặc tạo điều kiện, trợ giúp thực hiện hành vi rửa tiền.",
+      "b": "Thiết lập, duy trì tài khoản vô danh hoặc tài khoản sử dụng tên giả.",
+      "c": "Cung cấp trái phép dịch vụ nhận tiền mặt, séc, công cụ tiền tệ khác hoặc công cụ lưu trữ giá trị và thực hiện thanh toán cho người thụ hưởng."
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Chủ thể nào có nghĩa vụ thực hiện PCRT?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Ngân hàng",
+      "b": "Công ty chứng khoán",
+      "c": "Tổ chức tín dụng"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Cơ quan nào trực thuộc NHNN phụ trách Phòng, chống rửa tiền tại Việt Nam?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Thanh tra Chính phủ",
+      "b": "Cục Phòng, chống rửa tiền",
+      "c": "Bộ Công an",
+      "d": "Ủy ban Chứng khoán Nhà nước"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Dấu hiệu giao dịch đáng ngờ là:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Giao dịch khớp lệnh nhiều lần, giá trị nhỏ",
+      "b": "Giao dịch mua bán chéo giữa các tài khoản liên quan",
+      "c": "Giao dịch qua app online bình thường",
+      "d": "Giao dịch khối lượng lớn nhưng công bố công khai"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Hành vi rửa tiền qua chứng khoán thường là:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Mua bán khống",
+      "b": "Mua bán chéo, thao túng giá",
+      "c": "Giao dịch lòng vòng nhiều tài khoản"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Hoạt động rửa tiền thường trải qua mấy giai đoạn?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "2 giai đoạn",
+      "b": "3 giai đoạn",
+      "c": "4 giai đoạn",
+      "d": "5 giai đoạn"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Khách hàng có rủi ro cao là:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Khách hàng chính trị cấp cao (PEP)",
+      "b": "Khách hàng sử dụng hộ chiếu nước ngoài từ quốc gia rủi ro cao",
+      "c": "Khách hàng giao dịch tiền lớn không rõ nguồn gốc"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Khách hàng nộp tiền lớn rồi yêu cầu rút ngay qua người khác. Đây là:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Bình thường",
+      "b": "Dấu hiệu rửa tiền",
+      "c": "Do nhu cầu đầu tư",
+      "d": "Lỗi kỹ thuật"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Khi nào cần cập nhật thông tin khách hàng?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Khi khách hàng thay đổi giấy tờ tùy thân",
+      "b": "Khi giao dịch vượt ngưỡng quy định",
+      "c": "Khi có dấu hiệu rủi ro rửa tiền"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "KYC là viết tắt của:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Know Your Company",
+      "b": "Know Your Customer",
+      "c": "Keep Your Customer",
+      "d": "Key Yearly Compliance"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Lĩnh vực chứng khoán dễ bị lợi dụng để rửa tiền vì:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Tính thanh khoản cao, giao dịch nhanh",
+      "b": "Khó xác minh nguồn tiền",
+      "c": "Có thể mua bán qua nhiều tài khoản liên quan"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Người chịu trách nhiệm Phòng, chống rửa tiền trong công ty chứng khoán là:",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Giám đốc chi nhánh",
+      "b": "Nhân viên môi giới",
+      "c": "Lãnh đạo bộ phận tuân thủ/Bộ phận Phòng, chống rửa tiền",
+      "d": "Trưởng phòng Kế toán"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Nhà đầu tư nước ngoài yêu cầu dùng tài khoản đứng tên cá nhân Việt Nam để giao dịch. Đây là:",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Bình thường",
+      "b": "Hợp pháp",
+      "c": "Nguy cơ rửa tiền/vi phạm pháp luật",
+      "d": "Ưu đãi đầu tư"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Rửa tiền là gì theo Luật PCRT 2022?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "là hành vi của tổ chức, cá nhân nhằm hợp pháp hóa nguồn gốc của tài sản do phạm tội mà có.",
+      "b": "là hành vi của tổ chức, cá nhân nhằm hợp pháp hóa nguồn gốc của tài sản do các hành vi hợp pháp mà có",
+      "c": "Giao dịch tài chính bình thường",
+      "d": "Mua bán hợp pháp tài sản có giá trị"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Tại sao phòng, chống rửa tiền quan trọng với công ty chứng khoán?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Bảo vệ uy tín, phòng tránh phạt",
+      "b": "Đảm bảo tuân thủ pháp luật",
+      "c": "Ngăn rủi ro tài chính và pháp lý"
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Theo luật PCRT thì Tổ chức tài chính phải nhận biết khách hàng trong các trường hợp sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Khách hàng lần đầu mở tài khoản hoặc thiết lập quan hệ với tổ chức tài chính;",
+      "b": "Khách hàng thực hiện giao dịch không thường xuyên có giá trị bằng hoặc vượt mức quy định;",
+      "c": "Nghi ngờ giao dịch hoặc các bên liên quan đến giao dịch có liên quan đến hoạt động rửa tiền;",
+      "d": "Nghi ngờ về tính chính xác hoặc tính đầy đủ của các thông tin nhận biết khách hàng đã thu thập trước đó."
+    }
+  },
+  {
+    "scope": "Phòng chống rửa tiền",
+    "content": "Thời hạn lưu trữ hồ sơ phòng, chống rửa tiền:",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "3 năm",
+      "b": "5 năm",
+      "c": "7 năm",
+      "d": "10 năm"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Hành vi nào sau đây bị cấm",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Sử dụng thông tin nội bộ để mua, bán chứng khoán",
+      "b": "Thao túng thị trường chứng khoán",
+      "c": "Làm giả giấy tờ, xác nhận trên giấy tờ giả mạo"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Phạt tiền từ 50.000.000 đồng đến 70.000.000 đồng đối với một trong các hành vi vi phạm nào trong các hành vi sau",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Không báo cáo theo thời hạn pháp luật quy định khi thay đổi người hành nghề chứng khoán;",
+      "b": "Mượn, thuê chứng chỉ hành nghề chứng khoán hoặc cho mượn, cho thuê chứng chỉ hành nghề chứng khoán;",
+      "c": "Bố trí người chưa có chứng chỉ hành nghề chứng khoán hoặc người đang trong thời gian bị tước quyền sử dụng chứng chỉ hành nghề chứng khoán thực hiện nghiệp vụ, vị trí mà theo quy định pháp luật phải có chứng chỉ hành nghề chứng khoán;",
+      "d": "Tẩy xoá, sửa chữa làm thay đổi nội dung chứng chỉ hành nghề chứng khoán."
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Thực hiện chào bán, phát hành chứng khoán riêng lẻ không đúng thời gian quy định bị phạt tiền bao nhiêu?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Phạt tiền từ 70.000.000 đồng đến 100.000.000 đồng",
+      "b": "Phạt tiền từ 50.000.000 đồng đến 70.000.000 đồng",
+      "c": "Phạt tiền từ 100.000.000 đồng đến 120.000.000 đồng",
+      "d": "Chỉ bị cảnh cáo, không bị phạt hành chính"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Thực hiện nghiệp vụ kinh doanh chứng khoán khi chưa được Ủy ban Chứng khoán Nhà nước cấp giấy phép bị phạt bao nhiêu",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Phạt tiền từ 200.000.000 đồng đến 300.000.000 đồng",
+      "b": "Phạt tiền từ 100.000.000 đồng đến 200.000.000 đồng",
+      "c": "Phạt tiền từ 300.000.000 đồng đến 400.000.000 đồng",
+      "d": "Phạt tiền từ 400.000.000 đồng đến 500.000.000 đồng"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Thực hiện phát hành thêm cổ phiếu nhưng không báo cáo Ủy ban Chứng khoán Nhà nước bị phạt tiền bao nhiêu?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Phạt tiền từ 100.000.000 đồng đến 200.000.000 đồng",
+      "b": "Phạt tiền từ 200.000.000 đồng đến 300.000.000 đồng",
+      "c": "Phạt tiền từ 300.000.000 đồng đến 400.000.000 đồng",
+      "d": "Không có đáp án nào đúng"
+    }
+  },
+  {
+    "scope": "Cho vay Giao dịch ký quỹ",
+    "content": "Chứng khoán đủ tiêu chuẩn giao dịch ký quỹ bao gồm",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Chứng khoán có thời gian niêm yết chưa đủ 06 tháng tính từ ngày giao dịch đầu tiên đến thời điểm xem xét, lựa chọn để được giao dịch ký quỹ. Trường hợp chứng khoán chuyển sàn niêm yết, thời gian niêm yết được tính là tổng thời gian đã niêm yết tại hai Sở giao dịch chứng khoán",
+      "b": "Chứng khoán niêm yết trong tình trạng bị cảnh báo, bị kiểm soát, bị kiểm soát đặc biệt, bị tạm ngừng giao dịch, trong diện bị hủy niêm yết theo quy định có liên quan về niêm yết chứng khoán;",
+      "c": "Chứng khoán của tổ chức phát hành có báo cáo tài chính năm được kiểm toán hoặc báo cáo tài chính bán niên được soát xét hoặc được kiểm toán có ý kiến không phải là ý kiến chấp nhận toàn phần của tổ chức kiểm toán"
+    }
+  },
+  {
+    "scope": "Cho vay Giao dịch ký quỹ",
+    "content": "SHS có thể tiếp tục gia hạn thời hạn cho vay giao dịch ký quỹ cho KH khi nào",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b"
+    ],
+    "choices": {
+      "a": "Trên cơ sở văn bản đề nghị của khách hàng.",
+      "b": "Thời gian gia hạn mỗi lần không quá ba (03) tháng.",
+      "c": "Không có quy định thời gian gia hạn mỗi lần",
+      "d": "Không cần khách hàng đề nghị."
+    }
+  },
+  {
+    "scope": "Cho vay Giao dịch ký quỹ",
+    "content": "SHS không được cho khách hàng vay tiền để thực hiện giao dịch ký quỹ trong các trường hợp sau:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Đối với cổ phiếu, chứng chỉ quỹ do chính SHS bảo lãnh phát hành theo hình thức cam kết chắc chắn kể từ thời điểm công ty chứng khoán ký hợp đồng bảo lãnh đến hết sáu (06) tháng tính từ khi hoàn tất đợt phát hành;",
+      "b": "Đối với cổ phiếu SHS",
+      "c": "Đối với cổ phiếu của công ty niêm yết sở hữu từ 50% trở lên vốn điều lệ của SHS"
+    }
+  },
+  {
+    "scope": "Cho vay Giao dịch ký quỹ",
+    "content": "SHS phải gửi Sở giao dịch chứng khoán danh sách chứng khoán mà mình thực hiện cho vay giao dịch ký quỹ khi nào",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Trước ngày giao dịch thứ năm của tháng tiếp theo",
+      "b": "Trước ngày giao dịch thứ mười của tháng tiếp theo",
+      "c": "Trong vòng 10 ngày đầu tiên của tháng tiếp theo",
+      "d": "Trong vòng 05 ngày đầu tiên của tháng tiếp theo"
+    }
+  },
+  {
+    "scope": "Cho vay Giao dịch ký quỹ",
+    "content": "Tài khoản giao dịch ký quỹ không được mở cho các đối tượng dưới đây",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Tổng giám đốc của SHS",
+      "b": "Phó TGĐ của SHS",
+      "c": "Kế toán trưởng của SHS"
+    }
+  },
+  {
+    "scope": "Cho vay Giao dịch ký quỹ",
+    "content": "Thời hạn khoản vay giao dịch ký quỹ được quy định như nào",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b"
+    ],
+    "choices": {
+      "a": "Do SHS và khách hàng thỏa thuận trong Hợp đồng mở tài khoản giao dịch ký quỹ.",
+      "b": "Không quá ba (03) tháng tính từ ngày thực hiện giải ngân khoản vay.",
+      "c": "Không có quy định"
+    }
+  },
+  {
+    "scope": "Cho vay Giao dịch ký quỹ",
+    "content": "Tổng dư nợ cho vay giao dịch ký quỹ của một công ty chứng khoán không được vượt quá",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "200% vốn chủ sở hữu trên BCTC tự lập của công ty chứng khoán.",
+      "b": "200% vốn chủ sở hữu trên BCTC soát xét/kiểm toán của công ty chứng khoán.",
+      "c": "200% Tổng tài sản trên BCTC tự lập của công ty chứng khoán.",
+      "d": "200% Tổng tài sản BCTC soát xét/kiểm toán của công ty chứng khoán."
+    }
+  },
+  {
+    "scope": "Cho vay Giao dịch ký quỹ",
+    "content": "Tổng dư nợ cho vay giao dịch ký quỹ của SHS đối với một loại chứng khoán không được vượt quá",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "10% VCSH trên BCTC soát xét/kiểm toán của SHS",
+      "b": "15% VCSH trên BCTC soát xét/kiểm toán của SHS",
+      "c": "10% VCSH trên BCTC tự lập của SHS",
+      "d": "15% VCSH trên BCTC tự lập của SHS"
+    }
+  },
+  {
+    "scope": "Cho vay Giao dịch ký quỹ",
+    "content": "Tổng mức cho vay giao dịch ký quỹ của SHS đối với một khách hàng",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Không được vượt quá 3% VCSH trên BCTC tự lập của SHS",
+      "b": "Không được vượt quá 3% VCSH trên BCTC soát xét/kiểm toán của SHS",
+      "c": "Không được vượt quá 3% Vốn điều lệ trên BCTC tự lập của SHS",
+      "d": "Không được vượt quá 3% vốn điều lệ trên BCTC tự lập của SHS"
+    }
+  },
+  {
+    "scope": "Cho vay Giao dịch ký quỹ",
+    "content": "Tổng số chứng khoán cho vay giao dịch ký quỹ của SHS không được vượt quá",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "5% tổng số chứng khoán niêm yết của một tổ chức niêm yết.",
+      "b": "5% tổng số chứng khoán niêm yết của SHS",
+      "c": "10% tổng số chứng khoán niêm yết của SHS",
+      "d": "10% tổng số chứng khoán niêm yết của một tổ chức niêm yết."
+    }
+  },
+  {
+    "scope": "Cho vay Giao dịch ký quỹ",
+    "content": "Trong thời hạn bao nhiêu ngày làm việc kể từ ngày Sở giao dịch chứng khoán công bố danh sách chứng khoán không được phép giao dịch ký quỹ SHS có trách nhiệm công bố công khai danh sách tất cả chứng khoán mà công ty thực hiện giao dịch ký quỹ tính đến thời điểm công bố trên website và các địa điểm kinh doanh của công ty chứng khoán.",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "02 ngày làm việc",
+      "b": "02 ngày",
+      "c": "05 ngày làm việc",
+      "d": "05 ngày"
+    }
+  },
+  {
+    "scope": "Cho vay Giao dịch ký quỹ",
+    "content": "Trường hợp SHS thay đổi hệ thống quản lý giao dịch ký quỹ phải báo cáo UBCKNN khi nào?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Tối thiểu trước 15 ngày trước ngày dự kiến chính thức tổ chức triển khai thực hiện",
+      "b": "Tối thiểu trước 15 ngày làm việc trước ngày dự kiến chính thức tổ chức triển khai thực hiện",
+      "c": "15 ngày sau ngày chính thức tổ chức triển khai thực hiện",
+      "d": "15 ngày làm việc sau ngày chính thức tổ chức triển khai thực hiện"
+    }
+  },
+  {
+    "scope": "Tự doanh chứng khoán",
+    "content": "Các trường hợp sau không được coi là tự doanh chứng khoán",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Mua, bán chứng khoán do sửa lỗi sau giao dịch",
+      "b": "Mua, bán cổ phiếu của chính mình",
+      "c": "Cả 1 và 2",
+      "d": "Tất cả đều sai"
+    }
+  },
+  {
+    "scope": "Tư vấn đầu tư chứng khoán",
+    "content": "Câu nào sau đây là đúng",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b"
+    ],
+    "choices": {
+      "a": "Công ty chứng khoán phải bảo mật các thông tin nhận được từ người sử dụng dịch vụ tư vấn trong quá trình cung ứng dịch vụ tư vấn trừ trường hợp được khách hàng đồng ý hoặc pháp luật có quy định khác",
+      "b": "Công ty chứng khoán phải tư vấn đầu tư phù hợp với mục tiêu đầu tư và tình hình tài chính của khách hàng và phải chịu trách nhiệm về kết quả phân tích và độ tin cậy của thông tin cung cấp cho khách hàng.",
+      "c": "Công ty chứng khoán được cung cấp dịch vụ tư vấn đầu tư chứng khoán cho công ty mà mình nắm giữ từ 10% trở lên vốn điều lệ."
+    }
+  },
+  {
+    "scope": "Tư vấn tài chính và Bảo lãnh phát hành",
+    "content": "Công ty chứng khoán không được bảo lãnh phát hành theo hình thức cam kết chắc chắn hoặc là người bảo lãnh chính trong các trường hợp sau đây",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Công ty chứng khoán, độc lập hoặc cùng công ty con hoặc cùng với người có liên quan sở hữu từ 10% trở lên vốn điều lệ của tổ chức phát hành, hoặc có quyền kiểm soát tổ chức phát hành, hoặc có quyền bổ nhiệm Tổng Giám đốc (Giám đốc) của tổ chức phát hành",
+      "b": "Tối thiểu 30% vốn điều lệ của công ty chứng khoán và tối thiểu 30% vốn điều lệ của tổ chức phát hành do cùng một cá nhân hoặc một tổ chức nắm giữ",
+      "c": "Tổ chức phát hành, độc lập hoặc cùng các công ty con hoặc cùng với người có liên quan sở hữu từ 20% trở lên vốn điều lệ của công ty chứng khoán, hoặc có quyền kiểm soát công ty chứng khoán, hoặc có quyền bổ nhiệm Tổng Giám đốc (Giám đốc) của công ty chứng khoán;"
+    }
+  },
+  {
+    "scope": "Tự doanh chứng khoán",
+    "content": "Công ty chứng khoán không được trực tiếp hoặc ủy thác cho tổ chức, cá nhân khác thực hiện",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Đầu tư vào cổ phiếu hoặc phần vốn góp của công ty có sở hữu trên 50% vốn điều lệ của công ty chứng khoán, trừ trường hợp mua cổ phiếu lô lẻ theo yêu cầu của khách hàng;",
+      "b": "Đầu tư quá 20% tổng số cổ phiếu, chứng chỉ quỹ đang lưu hành của một tổ chức niêm yết;",
+      "c": "Đầu tư hoặc góp vốn quá 10% tổng số vốn góp của một công ty trách nhiệm hữu hạn hoặc dự án kinh doanh;"
+    }
+  },
+  {
+    "scope": "Tư vấn đầu tư chứng khoán",
+    "content": "Công ty chứng khoán phải thu thập và quản lý thông tin về khách hàng",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Tình hình tài chính của khách hàng; Kinh nghiệm và hiểu biết về đầu tư của khách hàng",
+      "b": "Mục tiêu đầu tư của khách hàng",
+      "c": "Khả năng chấp nhận rủi ro của khách hàng"
+    }
+  },
+  {
+    "scope": "Tư vấn tài chính và Bảo lãnh phát hành",
+    "content": "Công ty chứng khoán thực hiện bảo lãnh phát hành chứng khoán ra công chúng thực hiện bảo lãnh theo phương thức nhận mua một phần hoặc toàn bộ chứng khoán của tổ chức phát hành chỉ được phép bảo lãnh phát hành khi",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Tổng giá trị chứng khoán bảo lãnh phát hành không được lớn hơn vốn chủ sở hữu",
+      "b": "Tổng giá trị chứng khoán bảo lãnh phát hành không được vượt quá 15 lần hiệu số giữa giá trị tài sản ngắn hạn và nợ ngắn hạn tính theo báo cáo tài chính quý gần nhất",
+      "c": "Đáp ứng đồng thời cả 1 và 2",
+      "d": "Chỉ cần đáp ứng 1 hoặc 2"
+    }
+  },
+  {
+    "scope": "Môi giới chứng khoán",
+    "content": "Công ty chứng khoán thực hiện nghiệp vụ môi giới chứng khoán không được:",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Đưa ra ý kiến về việc tăng hay giảm giá chứng khoán mà không có căn cứ để lôi kéo khách hàng tham gia giao dịch;",
+      "b": "Thỏa thuận hoặc đưa ra lãi suất cụ thể hoặc chia sẻ lợi nhuận hoặc thua lỗ với khách hàng để lôi kéo khách hàng tham gia giao dịch;",
+      "c": "Nhận lệnh, thanh toán giao dịch với người không phải là người đứng tên tài khoản giao dịch mà không có ủy quyền của người đứng tên tài khoản bằng văn bản;"
+    }
+  },
+  {
+    "scope": "Tự doanh chứng khoán",
+    "content": "Khi thực hiện nghiệp vụ tự doanh công ty chứng khoán phải",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Công ty chứng khoán phải đảm bảo có đủ tiền và chứng khoán để thanh toán các lệnh giao dịch cho tài khoản của chính mình",
+      "b": "Nghiệp vụ tự doanh của công ty chứng khoán phải được thực hiện với danh nghĩa chính mình, không được mượn danh nghĩa của người khác hoặc thực hiện với danh nghĩa cá nhân hoặc cho người khác sử dụng tài khoản tự doanh",
+      "c": "Công ty chứng khoán phải ưu tiên thực hiện lệnh của khách hàng trước khi thực hiện lệnh của chính mình."
+    }
+  },
+  {
+    "scope": "Môi giới chứng khoán",
+    "content": "Phát biểu nảo sau đây không chính xác",
+    "type": "single",
+    "answers": [
+      "d"
+    ],
+    "choices": {
+      "a": "Công ty chứng khoán phải quản lý tách bạch tiền gửi giao dịch chứng khoán của từng khách hàng, tách bạch tiền của khách hàng với tiền của công ty chứng khoán.",
+      "b": "Công ty chứng khoán không được trực tiếp nhận và chi trả tiền mặt để giao dịch chứng khoán của khách hàng mà phải thực hiện qua ngân hàng thương mại",
+      "c": "Công ty chứng khoán phải công bố trên trang thông tin điện tử và tại các chi nhánh, phòng giao dịch của công ty chứng khoán danh sách ngân hàng thương mại được lựa chọn cho hai phương thức quản lý tiền giao dịch chứng khoán của khách hàng",
+      "d": "Công ty chứng khoán  được lạm dụng tiền của khách hàng dưới mọi hình thức"
+    }
+  },
+  {
+    "scope": "Tự doanh chứng khoán",
+    "content": "SHS Có được mua, góp vốn mua bất động sản hay không?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "SHS không được mua, góp vốn mua bất động sản trừ trường hợp để sử dụng làm trụ sở chính, chi nhánh, phòng giao dịch phục vụ trực tiếp cho các hoạt động nghiệp vụ của công ty chứng khoán.",
+      "b": "SHS không được mua, góp vốn mua bất động sản trong bất kỳ trường hợp nào",
+      "c": "SHS được mua, góp vốn mua bất động sản trong bất kỳ trường hợp nào",
+      "d": "Không đáp án nào đúng"
+    }
+  },
+  {
+    "scope": "Tự doanh chứng khoán",
+    "content": "SHS cùng với người có liên quan đầu tư bao nhiêu % vốn điều lệ của công ty chứng khoán khác",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "< 5% trở lên vốn điều lệ",
+      "b": "≤ 5% trở lên vốn điều lệ",
+      "c": "< 10% trở lên vốn điều lệ",
+      "d": "≤ 10% trở lên vốn điều lệ"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "SHS phải gửi Báo cáo năm/6 tháng về hoạt động quản trị rủi ro khi nào",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Trước ngày 31/01 và 31/7 hàng năm",
+      "b": "Trước ngày 31/7 hàng năm",
+      "c": "Trước ngày 31/01 hàng năm",
+      "d": "Không quy định"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "SHS phải gửi báo cáo tài chính bán niên và báo cáo tỷ lệ an toàn tài chính tại ngày 30 tháng 6 đã được soát xét bởi tổ chức kiểm toán được chấp thuận (Trường hợp công ty chứng khoán phải lập báo cáo tài chính bán niên hợp nhất)",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Trong vòng 45 ngày kể từ ngày kết thúc 6 tháng đầu năm tài chính",
+      "b": "Trong vòng 45 ngày làm việc kể từ ngày kết thúc 6 tháng đầu năm tài chính",
+      "c": "Trong vòng 90 ngày kể từ ngày kết thúc 6 tháng đầu năm tài chính",
+      "d": "Trong vòng 90 ngày làm việc kể từ ngày kết thúc 6 tháng đầu năm tài chính"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "SHS phải gửi Báo cáo tài chính quý khi nào (Trường hợp SHS không phải lập báo cáo tài chính quý hợp nhất)",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Trong vòng 20 ngày kể từ ngày kết thúc quý",
+      "b": "Trong vòng 20 ngày làm việc kể từ ngày kết thúc quý",
+      "c": "Trong vòng 45 ngày làm việc kể từ ngày kết thúc quý",
+      "d": "Trong vòng 45 ngày kể từ ngày kết thúc quý"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "SHS phải gửi Báo cáo tình hình hoạt động tháng khi nào",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Trong vòng 05 ngày làm việc của tháng tiếp theo",
+      "b": "Trong vòng 05 ngày của tháng tiếp theo",
+      "c": "Trong vòng 10 ngày làm việc của tháng tiếp theo",
+      "d": "Trong vòng 10 ngày của tháng tiếp theo"
+    }
+  },
+  {
+    "scope": "Tự doanh chứng khoán",
+    "content": "Tổng giá trị đầu tư vào các trái phiếu doanh nghiệp của công ty chứng khoán không được vượt quá",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "70% vốn chủ sở hữu",
+      "b": "70% Tổng tài sản",
+      "c": "70% Vốn khả dụng",
+      "d": "Không đáp án nào đúng"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Tỷ lệ tổng nợ trên vốn chủ sở hữu của công ty chứng khoán không được vượt quá bao nhiêu lần",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "05 lần",
+      "b": "04 lần",
+      "c": "03 lần",
+      "d": "02 lần"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Công ty chứng khoán phải thực hiện chế độ báo cáo bất thường khi tỷ lệ vốn khả dụng xuống dưới",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "1.8",
+      "b": "1.5",
+      "c": "1.2",
+      "d": "1"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Theo quy định về an toàn tài chính, công ty chứng khoán sẽ bị áp dụng chế độ báo cáo tỷ lệ vốn khả dụng \"hàng ngày\" nếu tỷ lệ vốn khả dụng của công ty giảm xuống dưới mức nào?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "1.8",
+      "b": "1.2",
+      "c": "1",
+      "d": "1.5"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Theo quy định về an toàn tài chính, tổ chức kinh doanh chứng khoán vào tình trạng cảnh báo",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Tỷ lệ vốn khả dụng từ 150% đến dưới 180% trong tất cả các kỳ báo cáo trong ba (03) tháng liên tục",
+      "b": "Tỷ lệ vốn khả dụng đã được soát xét hoặc được kiểm toán bởi tổ chức kiểm toán được chấp thuận từ 150% đến dưới 180%",
+      "c": "Báo cáo tỷ lệ an toàn tài chính mà tổ chức kiểm toán được chấp thuận đưa ra ý kiến không chấp thuận (hoặc ý kiến trái ngược), từ chối đưa ra ý kiến (hoặc không thể đưa ra ý kiến), ý kiến ngoại trừ một số chỉ tiêu của báo cáo này mà nếu trừ các ảnh hưởng ngoại trừ ra khỏi vốn khả dụng sẽ dẫn tới tỷ lệ vốn khả dụng từ 150% đến dưới 180%"
+    }
+  },
+  {
+    "scope": "Quy định chung về TTCK",
+    "content": "Tổ chức kinh doanh chứng khoán phải gửi Ủy ban Chứng khoán Nhà nước báo cáo tỷ lệ an toàn tài chính tại ngày kết thúc tháng khi nào?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Trong thời hạn bảy (07) ngày làm việc, kể từ ngày kết thúc tháng.",
+      "b": "Trong thời hạn bảy (07) ngày kể từ ngày kết thúc tháng.",
+      "c": "Trong thời hạn mười (10) ngày làm việc, kể từ ngày kết thúc tháng.",
+      "d": "Trong thời hạn mười (10) ngày kể từ ngày kết thúc tháng."
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "\"Cán bộ, nhân viên của SHS phải bảo mật các thông tin có được trong quá trình làm việc. Không được tiết lộ bất cứ một thông tin nào khi chưa được phép của người có thẩm quyền, trừ khi có nghĩa vụ phải công khai theo yêu cầu của pháp luật hoặc trong phạm vi quyền hạn nghề nghiệp của mình\" là nội dung của nguyên tắc đạo đức nghề nghiệp nào?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Tuân thủ tính bảo mật.",
+      "b": "Tuân thủ pháp luật, các quy trình, quy chế, quy định của Công ty",
+      "c": "Đảm bảo năng lực chuyên môn.",
+      "d": "Đảm bảo năng lực chuyên môn và tính cẩn trọng"
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Đâu là nguyên tắc cơ bản của đạo đức nghề nghiệp tại SHS",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Tuân thủ pháp luật, các quy trình, quy chế, quy định của Công ty",
+      "b": "Luôn đảm bảo tính trung thực, khách quan, công bằng và minh bạch trong hành nghề",
+      "c": "Đảm bảo năng lực chuyên môn và tính cẩn trọng",
+      "d": "Chỉ cần đảm bảo lợi ích cá nhân, không quan tâm lợi ích của Công ty"
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Hành động nào KHÔNG được phép trong các hành động sau",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Được tự ý sử dụng tiền, chứng khoán trên tài khoản của khách hàng;",
+      "b": "Được sử dụng tài khoản giao dịch của khách hàng để mua bán chứng khoán cho bản thân hoặc cho người khác",
+      "c": "Được tự quyết định thay cho khách hàng về các giao dịch chứng khoán;",
+      "d": "Không đáp án nào đúng"
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Hành vi nào là điển hình của việc Thao túng thị trường (Market Manipulation)?",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Đưa ra khuyến nghị mua/bán một cách trung thực",
+      "b": "Tạo cung cầu giả tạo (như giao dịch chéo, đặt lệnh hủy lệnh liên tục) để đẩy giá lên hoặc xuống.",
+      "c": "Giao dịch với khối lượng lớn theo phân tích chuyên môn",
+      "d": "Liên tục mua hoặc bán chứng khoán với khối lượng chi phối vào thời điểm mở cửa hoặc đóng cửa thị trường nhằm thao túng giá chứng khoán."
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Hành vi nào sau đây được coi là vi phạm nguyên tắc về Tính Trung thực và Khách quan?",
+    "type": "multiple",
+    "answers": [
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Cung cấp báo cáo phân tích có ghi rõ nguồn trích dẫn dữ liệu",
+      "b": "Thực hiện giao dịch theo lệnh của khách hàng",
+      "c": "Phóng đại hoặc đưa thông tin sai lệch về khả năng sinh lời của một cổ phiếu để thu hút khách hàng.",
+      "d": "Cố ý phân tích, khuyến nghị đầu tư sai lệch nhằm lôi kéo khách hàng giao dịch để hưởng hoa hồng hoặc lợi ích cá nhân."
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Khi cung cấp dịch vụ, nhân viên môi giới cần đảm bảo rằng khách hàng đã được thông tin đầy đủ về vấn đề gì?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Lãi suất ngân hàng",
+      "b": "Lịch sử tăng giá của cổ phiếu.",
+      "c": "Các rủi ro liên quan đến giao dịch, sản phẩm, và các chi phí (phí, thuế) phải trả",
+      "d": "Tên của tất cả các nhà đầu tư lớn"
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Khi một nhân viên Tư vấn Đầu tư có mâu thuẫn lợi ích trọng yếu với khách hàng (ví dụ: công ty anh ta đang nắm giữ một lượng lớn cổ phiếu đó), điều gì cần được thực hiện?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Thực hiện giao dịch như bình thường nhưng thu phí cao hơn.",
+      "b": "Giấu kín mâu thuẫn để tránh làm khách hàng lo lắng",
+      "c": "Phải công bố đầy đủ và rõ ràng về mâu thuẫn lợi ích đó cho khách hàng, và chỉ tiếp tục tư vấn khi được khách hàng chấp thuận",
+      "d": "Chỉ tư vấn cho khách hàng mua vào"
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Khi nhân viên Tư vấn Đầu tư đưa ra khuyến nghị, báo cáo phân tích phải đảm bảo nguyên tắc nào?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Phải đảm bảo khách hàng luôn có lợi nhuận",
+      "b": "Hoạt động phân tích, tư vấn phải mang tính độc lập và khách quan, có cơ sở rõ ràng.",
+      "c": "Phải theo sát quan điểm của công ty.",
+      "d": "Chỉ được phân tích các cổ phiếu đã tăng giá"
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Một nhân viên môi giới nhận được thông tin nội bộ (material nonpublic information) về một công ty niêm yết. Anh ta nên làm gì?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Mua ngay cổ phiếu đó vì đó là thông tin có giá trị.",
+      "b": "Chia sẻ cho người thân để họ mua bán kiếm lời.",
+      "c": "Không được mua bán hoặc xúi giục người khác mua bán dựa trên thông tin đó (Cấm giao dịch nội gián).",
+      "d": "Chỉ mua một lượng nhỏ để thử nghiệm."
+    }
+  },
+  {
+    "scope": "Môi giới chứng khoán",
+    "content": "Nhân viên của công ty chứng khoán thấy giá chứng khoán liên tục sụt giảm nên đã quyết định bán chứng khoán để cắt lỗ cho khách hàng mà không có sự ủy thác của khách hàng, hành vi này là:",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Sai",
+      "b": "Đúng"
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Quy tắc nào sau đây được áp dụng để giải quyết xung đột lợi ích giữa giao dịch cá nhân của nhân viên, giao dịch tự doanh của công ty và giao dịch của khách hàng?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Giao dịch cá nhân > Giao dịch công ty > Giao dịch khách hàng",
+      "b": "Giao dịch công ty > Giao dịch khách hàng > Giao dịch cá nhân",
+      "c": "Giao dịch khách hàng phải được ưu tiên thực hiện trước giao dịch của công ty và giao dịch cá nhân của nhân viên",
+      "d": "Giao dịch cá nhân và giao dịch công ty được thực hiện đồng thời để đảm bảo hiệu quả."
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Theo Quy tắc đạo đức nghề nghiệp, trách nhiệm đầu tiên của người hành nghề chứng khoán là gì?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Đảm bảo lợi nhuận cao nhất cho công ty.",
+      "b": "Tuân thủ pháp luật về chứng khoán và thị trường chứng khoán",
+      "c": "Đặt lợi ích cá nhân lên trên lợi ích khách hàng",
+      "d": "Bảo mật mọi thông tin giao dịch của khách hàng"
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Thông tin nào sau đây KHÔNG được coi là Thông tin Bảo mật Khách hàng mà nhân viên chứng khoán phải bảo vệ",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Giá cổ phiếu niêm yết công khai.",
+      "b": "Báo cáo tài chính đã công bố của công ty.",
+      "c": "Số dư tài khoản, lịch sử giao dịch và chiến lược đầu tư riêng của khách hàng",
+      "d": "Thông tin về các tin đồn trên thị trường"
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Trong hoạt động tiếp thị và quảng bá về doanh nghiệp và công việc của mình, cán bộ, nhân viên của Công ty CP Chứng khoán Sài Gòn - Hà Nội ĐƯỢC PHÉP",
+    "type": "single",
+    "answers": [
+      "d"
+    ],
+    "choices": {
+      "a": "Sử dụng các phương tiện có thể làm ảnh hưởng tới hình ảnh và danh tiếng nghề nghiệp;",
+      "b": "Phóng đại về những công việc SHS có thể làm hoặc dịch vụ SHS có thể cung cấp, các bằng cấp hay kinh nghiệm của họ",
+      "c": "Nói xấu hoặc đưa thông tin sai về công việc của doanh nghiệp và của người hoạt động kinh doanh chứng khoán khác",
+      "d": "Không đáp án nào đúng"
+    }
+  },
+  {
+    "scope": "Đạo đức nghề nghiệp",
+    "content": "Yêu cầu về Năng lực chuyên môn và Tính cẩn trọng đòi hỏi người hành nghề chứng khoán phải làm gì?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Chỉ cần có bằng cấp là đủ",
+      "b": "Phải liên tục cập nhật kiến thức, quy định pháp luật và công nghệ để duy trì và nâng cao trình độ chuyên môn",
+      "c": "Chỉ thực hiện công việc khi có lợi nhuận",
+      "d": "Không cần phải kiểm tra lại tính hợp lý của các quyết định tự động hóa"
+    }
+  },
+  {
+    "scope": "Lưu ký chứng khoán",
+    "content": "Thành viên lưu ký có trách nhiệm nào sau đây đối với tài khoản lưu ký chứng khoán của nhà đầu tư?",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Quyết định thay đổi thông tin cá nhân của khách hàng mà không cần thông báo.",
+      "b": "Quản lý, hạch toán đầy đủ số dư chứng khoán của khách hàng.",
+      "c": "Cập nhật thông tin tài khoản và đối chiếu số dư",
+      "d": "Đảm bảo cơ sở vật chất, kỹ thuật cho các hoạt động lưu ký và thanh toán chứng khoán."
+    }
+  },
+  {
+    "scope": "Lưu ký chứng khoán",
+    "content": "Những quyền lợi nào của nhà đầu tư được Trung tâm Lưu ký Chứng khoán Việt Nam (VSDC) thực hiện thay mặt tổ chức phát hành?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c"
+    ],
+    "choices": {
+      "a": "Nhận cổ tức bằng tiền.",
+      "b": "Cung cấp dịch vụ môi giới mua bán chứng khoán cho nhà đầu tư.",
+      "c": "Phân bổ quyền mua cổ phiếu phát hành thêm.",
+      "d": "Phát hành báo cáo tài chính cho cổ đông."
+    }
+  },
+  {
+    "scope": "Lưu ký chứng khoán",
+    "content": "Lưu ký chứng khoán được hiểu là hoạt động nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Việc nhận ký gửi, bảo quản, chuyển giao chứng khoán cho khách hàng.",
+      "b": "Việc công ty chứng khoán bảo lãnh phát hành chứng khoán ra công chúng.",
+      "c": "Việc giúp khách hàng thực hiện các quyền liên quan đến chứng khoán lưu ký.",
+      "d": "Hoạt động được thực hiện thông qua hệ thống tài khoản lưu ký của thành viên lưu ký."
+    }
+  },
+  {
+    "scope": "Môi giới chứng khoán",
+    "content": "Khi thực hiện nghiệp vụ môi giới chứng khoán, công ty chứng khoán phải tuân thủ những nguyên tắc nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Có thể ưu tiên lệnh của nhà đầu tư mang lại nhiều phí giao dịch hơn để tối ưu doanh thu cho công ty.",
+      "b": "Được phép tiết lộ danh mục đầu tư của khách hàng cho phòng phân tích để phục vụ tư vấn đầu tư.",
+      "c": "Thực hiện giao dịch trung thực, công bằng, đảm bảo lợi ích hợp pháp của khách hàng.",
+      "d": "Bảo mật thông tin về danh mục, lệnh giao dịch và tài khoản của khách hàng."
+    }
+  },
+  {
+    "scope": "Môi giới chứng khoán",
+    "content": "Những hành vi nào sau đây khi thực hiện môi giới chứng khoán KHÔNG được phép",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c"
+    ],
+    "choices": {
+      "a": "Tự ý sử dụng tiền hoặc chứng khoán trong tài khoản của khách hàng.",
+      "b": "Tư vấn giao dịch phù hợp với mục tiêu đầu tư và khả năng chịu rủi ro của khách hàng.",
+      "c": "Cam kết hoặc bảo đảm lợi nhuận cho khách hàng trong hoạt động đầu tư."
+    }
+  },
+  {
+    "scope": "Môi giới chứng khoán",
+    "content": "Người hành nghề chứng khoán bảo đảm khách hàng không bị thua lỗ thì bị xử phạt vi phạm hành chính như thế nào?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "d"
+    ],
+    "choices": {
+      "a": "Bị phạt tiền từ 70.000.000 đồng đến 100.000.000 đồng.",
+      "b": "Bị cảnh cáo và yêu cầu cam kết không tái phạm.",
+      "c": "Không bị xử phạt nếu có sự đồng ý bằng văn bản của khách hàng.",
+      "d": "Có thể bị tước quyền sử dụng chứng chỉ hành nghề từ 01 tháng đến 03 tháng."
+    }
+  },
+  {
+    "scope": "Tự doanh chứng khoán",
+    "content": "Tự doanh chứng khoán được hiểu là hoạt động nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Việc công ty chứng khoán thực hiện bảo lãnh phát hành chứng khoán cho tổ chức phát hành.",
+      "b": "Việc công ty chứng khoán mua, bán chứng khoán cho chính mình.",
+      "c": "Việc công ty chứng khoán làm trung gian thực hiện mua, bán chứng khoán cho khách hàng.",
+      "d": "Hoạt động đầu tư do công ty chứng khoán tự thực hiện nhằm tìm kiếm lợi nhuận cho chính công ty."
+    }
+  },
+  {
+    "scope": "Tự doanh chứng khoán",
+    "content": "Công ty chứng khoán phải tuân thủ những quy định nào sau đây khi thực hiện nghiệp vụ tự doanh chứng khoán để bảo đảm minh bạch và tránh xung đột lợi ích?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Phải công bố cho khách hàng biết khi mình là đối tác trong giao dịch hoặc có lợi ích liên quan.",
+      "b": "Được phép ưu tiên thực hiện lệnh tự doanh khi có cơ hội sinh lời cao hơn khách hàng.",
+      "c": "Không được mua, bán cùng chiều với lệnh của khách hàng nếu có thể gây thiệt hại cho khách hàng.",
+      "d": "Phải tuân thủ quy định về công bố thông tin và tránh giao dịch xung đột lợi ích với khách hàng."
+    }
+  },
+  {
+    "scope": "Tự doanh chứng khoán",
+    "content": "Công ty chứng khoán được phép thực hiện nghiệp vụ tự doanh chứng khoán trong phạm vi nào sau đây?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Chỉ được mua bán chứng khoán niêm yết phục vụ mục đích tạo lập thị trường.",
+      "b": "Chỉ được phép đầu tư vào cổ phiếu của các công ty niêm yết trên Sở giao dịch chứng khoán.",
+      "c": "Được phép giao dịch chứng khoán trên tài khoản tự doanh và được đầu tư, góp vốn, phát hành, chào bán các sản phẩm tài chính.",
+      "d": "Chỉ được phép đầu tư vào trái phiếu Chính phủ và chứng chỉ quỹ đầu tư."
+    }
+  },
+  {
+    "scope": "Tự doanh chứng khoán",
+    "content": "Công ty chứng khoán khi được cấp phép thực hiện nghiệp vụ tự doanh chứng khoán được phép tiến hành những hoạt động nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Giao dịch chứng khoán trên tài khoản tự doanh của chính công ty chứng khoán.",
+      "b": "Thực hiện đầu tư và góp vốn theo quy định pháp luật.",
+      "c": "Chỉ được phép mua bán chứng khoán niêm yết trên Sở giao dịch chứng khoán.",
+      "d": "Phát hành, chào bán các sản phẩm tài chính theo quy định."
+    }
+  },
+  {
+    "scope": "Tư vấn tài chính và Bảo lãnh phát hành",
+    "content": "Công ty chứng khoán được cấp phép thực hiện nghiệp vụ bảo lãnh phát hành chứng khoán có thể cung cấp những dịch vụ nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Tư vấn, hỗ trợ tổ chức phát hành trong việc chuẩn bị hồ sơ chào bán chứng khoán.",
+      "b": "Đại lý lưu ký, thanh toán, chuyển nhượng chứng khoán.",
+      "c": "Cho vay ký quỹ để nhà đầu tư mua chứng khoán phát hành lần đầu.",
+      "d": "Tư vấn tài chính doanh nghiệp, bao gồm tái cơ cấu, sáp nhập, tổ chức lại, niêm yết và cổ phần hóa doanh nghiệp."
+    }
+  },
+  {
+    "scope": "Tư vấn tài chính và Bảo lãnh phát hành",
+    "content": "Công ty chứng khoán được phép thực hiện nghiệp vụ bảo lãnh phát hành chứng khoán phải tuân thủ những quy định nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Có thể nhận bảo lãnh toàn bộ hoặc một phần chứng khoán của tổ chức phát hành theo thỏa thuận.",
+      "b": "Được phép sử dụng vốn vay hoặc tiền của khách hàng để tham gia bảo lãnh phát hành.",
+      "c": "Tổng giá trị bảo lãnh phát hành không vượt quá 15 lần vốn chủ sở hữu của công ty chứng khoán.",
+      "d": "Phải mở tài khoản riêng biệt tại ngân hàng thương mại để nhận tiền mua chứng khoán của nhà đầu tư."
+    }
+  },
+  {
+    "scope": "Tư vấn tài chính và Bảo lãnh phát hành",
+    "content": "Công ty chứng khoán có thể thực hiện bảo lãnh phát hành chứng khoán theo những hình thức nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Bảo lãnh cam kết chắc chắn",
+      "b": "Bảo lãnh cố gắng tối đa",
+      "c": "Bảo lãnh theo hình thức đại lý phân phối"
+    }
+  },
+  {
+    "scope": "Tư vấn đầu tư chứng khoán",
+    "content": "Theo Luật Chứng khoán năm 2019, “tư vấn đầu tư chứng khoán” được hiểu là hoạt động nào sau đây?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Là việc đại diện cho khách hàng thực hiện giao dịch mua, bán chứng khoán trên thị trường.",
+      "b": "Là việc cung cấp cho khách hàng kết quả phân tích, báo cáo phân tích và đưa ra khuyến nghị liên quan đến việc mua, bán, nắm giữ chứng khoán.",
+      "c": "Là việc công ty chứng khoán mua, bán chứng khoán cho chính mình nhằm tìm kiếm lợi nhuận.",
+      "d": "Là việc cung cấp dịch vụ cho vay ký quỹ để nhà đầu tư có thể mua thêm chứng khoán."
+    }
+  },
+  {
+    "scope": "Tư vấn đầu tư chứng khoán",
+    "content": "Theo quy định tại Luật Chứng khoán năm 2019, hoạt động tư vấn đầu tư chứng khoán bao gồm những nội dung nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Cung cấp cho khách hàng kết quả phân tích và báo cáo phân tích chứng khoán.",
+      "b": "Đưa ra khuyến nghị liên quan đến việc mua, bán, nắm giữ chứng khoán.",
+      "c": "Hỗ trợ khách hàng ra quyết định đầu tư dựa trên các phân tích, đánh giá về chứng khoán."
+    }
+  },
+  {
+    "scope": "Tư vấn đầu tư chứng khoán",
+    "content": "Khi cung cấp dịch vụ tư vấn đầu tư chứng khoán, công ty chứng khoán phải ký hợp đồng với khách hàng, trong đó phải có nội dung tối thiểu nào sau đây?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Quyền, nghĩa vụ, trách nhiệm của các bên tham gia hợp đồng.",
+      "b": "Danh mục chứng khoán niêm yết được tư vấn.",
+      "c": "Điều kiện vay ký quỹ khi mua chứng khoán."
+    }
+  },
+  {
+    "scope": "Tư vấn đầu tư chứng khoán",
+    "content": "Nội dung tư vấn đầu tư chứng khoán phải có cơ sở hợp lý và phù hợp, dựa trên điều kiện nào sau đây?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Thông tin tài chính, phân tích logic, kết quả phân tích chứng khoán và thị trường chứng khoán.",
+      "b": "Ý kiến chuyên gia bên ngoài.",
+      "c": "Giá niêm yết trung bình 30 ngày gần nhất."
+    }
+  },
+  {
+    "scope": "Tư vấn đầu tư chứng khoán",
+    "content": "Công ty chứng khoán khi cung cấp dịch vụ tư vấn đầu tư chứng khoán phải đảm bảo các nguyên tắc nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Bảo đảm khách hàng đưa ra quyết định trên cơ sở thông tin đầy đủ và phù hợp với rủi ro có thể phát sinh.",
+      "b": "Bảo mật thông tin khách hàng và chỉ cung cấp cho cơ quan có thẩm quyền khi được yêu cầu.",
+      "c": "Được phép cam kết lợi nhuận cho khách hàng nếu có văn bản đồng ý.",
+      "d": "Không được cung cấp dịch vụ tư vấn cho công ty mà công ty chứng khoán hoặc người liên quan sở hữu từ 10% vốn điều lệ trở lên."
+    }
+  },
+  {
+    "scope": "Tư vấn đầu tư chứng khoán",
+    "content": "Công ty chứng khoán không được cung cấp dịch vụ tư vấn đầu tư chứng khoán cho đối tượng nào sau đây?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Nhà đầu tư tổ chức.",
+      "b": "Nhà đầu tư cá nhân.",
+      "c": "Công ty mà CTCK đó nắm giữ từ 10% trở lên vốn điều lệ.",
+      "d": "Nhà đầu tư cá nhân nước ngoài."
+    }
+  },
+  {
+    "scope": "Tư vấn đầu tư chứng khoán",
+    "content": "Các nội dung tư vấn đầu tư chứng khoán phải đáp ứng những yêu cầu nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "b",
+      "c",
+      "d"
+    ],
+    "choices": {
+      "a": "Sử dụng các tin đồn thị trường làm căn cứ.",
+      "b": "Có cơ sở hợp lý và phù hợp, dựa trên thông tin đáng tin cậy và phân tích lôgic.",
+      "c": "Khuyến nghị đầu tư chứng khoán phải liên quan và phù hợp với nội dung phân tích chứng khoán và thị trường chứng khoán.",
+      "d": "Báo cáo phân tích và khuyến nghị đầu tư phải ghi rõ nguồn trích dẫn số liệu và tên người chịu trách nhiệm về nội dung."
+    }
+  },
+  {
+    "scope": "Tư vấn đầu tư chứng khoán",
+    "content": "Công ty chứng khoán được phép cung cấp thông tin của người sử dụng dịch vụ tư vấn đầu tư chứng khoán trong trường hợp nào sau đây?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Khi cơ quan báo chí hoặc tổ chức nghiên cứu thị trường yêu cầu.",
+      "b": "Khi được khách hàng đồng ý hoặc pháp luật có quy định khác.",
+      "c": "Khi khách hàng đã ngừng sử dụng dịch vụ tư vấn đầu tư."
+    }
+  },
+  {
+    "scope": "Báo cáo và công bố thông tin",
+    "content": "Tại SHS, việc báo cáo và công bố thông tin phải được thực hiện như thế nào?",
+    "type": "single",
+    "answers": [
+      "c"
+    ],
+    "choices": {
+      "a": "Theo bất kỳ biểu mẫu nào miễn có đầy đủ nội dung cần thiết.",
+      "b": "Theo biểu mẫu do từng cá nhân tự thiết kế cho phù hợp thực tế.",
+      "c": "Theo đúng các biểu mẫu quy định của cơ quan chức năng và gửi theo đúng phương thức được yêu cầu.",
+      "d": "Theo biểu mẫu cũ đã sử dụng trước đây, không cần tuân thủ quy định mới."
+    }
+  },
+  {
+    "scope": "Báo cáo và công bố thông tin",
+    "content": "Theo quy định, “Người nội bộ” của công ty đại chúng được hiểu là ai?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Là mọi nhân viên đang làm việc tại công ty đại chúng.",
+      "b": "Là những người giữ vị trí quan trọng trong bộ máy quản trị, điều hành của công ty đại chúng.",
+      "c": "Là các cổ đông của công ty đại chúng.",
+      "d": "Là các nhà đầu tư nước ngoài nắm giữ chứng khoán của công ty đại chúng."
+    }
+  },
+  {
+    "scope": "Báo cáo và công bố thông tin",
+    "content": "Theo quy định, “Người có liên quan” của công ty đại chúng được hiểu là ai?",
+    "type": "single",
+    "answers": [
+      "b"
+    ],
+    "choices": {
+      "a": "Là các cá nhân hoặc tổ chức có quan hệ họ hàng gần gũi với người nội bộ của công ty.",
+      "b": "Là các cá nhân hoặc tổ chức có quan hệ với nhau trong các trường hợp quy định, như có sở hữu, quản lý, kiểm soát, hoặc quan hệ họ hàng theo luật định.",
+      "c": "Là mọi cổ đông của công ty đại chúng.",
+      "d": "Là các cá nhân có giao dịch chứng khoán với công ty đại chúng trong năm tài chính gần nhất."
+    }
+  },
+  {
+    "scope": "Báo cáo và công bố thông tin",
+    "content": "Việc Báo cáo và Công bố thông tin phải bảo đảm điều gì?",
+    "type": "single",
+    "answers": [
+      "a"
+    ],
+    "choices": {
+      "a": "Trung thực, khách quan, đầy đủ, chính xác và kịp thời.",
+      "b": "Ngắn gọn, dễ hiểu, sinh động và hấp dẫn.",
+      "c": "Bí mật, linh hoạt, tùy theo từng trường hợp.",
+      "d": "Nhanh nhất có thể, không cần kiểm chứng."
+    }
+  },
+  {
+    "scope": "Báo cáo và công bố thông tin",
+    "content": "Những ai sau đây được xem là Người nội bộ của doanh nghiệp là công ty đại chúng?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Chủ tịch Hội đồng quản trị hoặc thành viên Hội đồng quản trị của công ty đại chúng.",
+      "b": "Tổng giám đốc (Giám đốc), Phó tổng giám đốc (Phó giám đốc), Giám đốc tài chính, Kế toán trưởng của công ty đại chúng.",
+      "c": "Trưởng Ban kiểm soát, Kiểm soát viên, Thư ký công ty, người phụ trách quản trị công ty, người được ủy quyền công bố thông tin."
+    }
+  },
+  {
+    "scope": "Báo cáo và công bố thông tin",
+    "content": "Theo quy định, các trường hợp sau đây được xem là Người có liên quan?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "choices": {
+      "a": "Doanh nghiệp và người nội bộ của doanh nghiệp đó.",
+      "b": "Doanh nghiệp và tổ chức, cá nhân sở hữu trên 10% số cổ phiếu có quyền biểu quyết hoặc vốn góp của doanh nghiệp đó.",
+      "c": "Cá nhân và bố, mẹ, vợ, chồng, con, anh, chị, em ruột của cá nhân đó.",
+      "d": "Cổ đông nhỏ lẻ sở hữu dưới 1% vốn điều lệ của công ty."
+    }
+  },
+  {
+    "scope": "Báo cáo và công bố thông tin",
+    "content": "Khi phát hiện phương tiện truyền thông đưa tin sai lệch về Công ty, cán bộ nhân viên phải thông báo ngay cho những ai sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b"
+    ],
+    "choices": {
+      "a": "Trưởng Bộ phận Truyền thông.",
+      "b": "Tổng Giám đốc.",
+      "c": "Bất kỳ đồng nghiệp nào trong cùng phòng ban."
+    }
+  },
+  {
+    "scope": "Báo cáo và công bố thông tin",
+    "content": "Các Đơn vị/Phòng/Ban/Bộ phận/cá nhân có liên quan đến hoạt động BC, CBTT có trách nhiệm chung nào sau đây?",
+    "type": "multiple",
+    "answers": [
+      "a",
+      "b",
+      "d"
+    ],
+    "choices": {
+      "a": "Chủ động theo dõi, cập nhật các quy định pháp luật và hướng dẫn của cơ quan thẩm quyền liên quan đến hoạt động BC, CBTT.",
+      "b": "Hướng dẫn, đào tạo nội bộ cho cán bộ, nhân viên về hoạt động báo cáo và công bố thông tin liên quan đến đơn vị mình.",
+      "c": "Ủy quyền cho bên thứ ba thực hiện toàn bộ việc công bố thông tin thay cho Công ty.",
+      "d": "Đảm bảo việc báo cáo, công bố thông tin được thực hiện đúng quy định, kịp thời và đầy đủ trong phạm vi quản lý của đơn vị."
+    }
+  }
+]
