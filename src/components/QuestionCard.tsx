@@ -12,16 +12,17 @@ type Props = {
   isThink: boolean
 }
 
-export default function QuestionCard({ index, total, q, selected, onToggle, onThinkToggle, isThink }: Props) {
+export default function QuestionCard({
+  index, total, q, selected, onToggle, onThinkToggle, isThink
+}: Props) {
   const { mode } = useQuizMode()
   const [revealed, setRevealed] = useState(false)
 
-  // ✅ Reset trạng thái Check khi đổi câu (Next/Back) hoặc đổi mode
-  useEffect(() => {
-    setRevealed(false)
-  }, [q.id, index, mode])
+  // Reset trạng thái Check khi đổi câu hoặc đổi mode
+  useEffect(() => { setRevealed(false) }, [q.id, index, mode])
 
   const hasSelection = selected.size > 0
+  const isMultiple = (q as any).multiple ?? (q.correctKeys.size > 1) // fallback theo đáp án đúng
 
   const onCheck = () => {
     if (mode !== 'practice') return
@@ -29,22 +30,28 @@ export default function QuestionCard({ index, total, q, selected, onToggle, onTh
     setRevealed(true)
   }
 
-  // Đổi đáp án sau khi Check -> ẩn highlight cũ để thử lại
   const handleToggle = (k: string) => {
     if (mode === 'practice' && revealed) setRevealed(false)
     onToggle(k)
   }
 
-  return (
+   return (
     <div className="card mb-2">
       <div className="row" style={{ justifyContent: 'space-between', alignItems: 'center' }}>
         <h3>{index + 1}. {q.content}</h3>
         <div style={{ color: '#b8c2d6', fontSize: 13, display: 'flex', alignItems: 'center', gap: 6 }}>
           <span>{index + 1}/{total}</span>
           {q.scope && <span className="badge">{q.scope}</span>}
+          <span
+            className={`badge ${isMultiple ? 'badge-multi' : 'badge-single'}`}
+            title={isMultiple ? 'Chọn nhiều đáp án' : 'Chỉ chọn 1 đáp án'}
+          >
+            {isMultiple ? 'Nhiều đáp án' : '1 đáp án'}
+          </span>
         </div>
       </div>
 
+      {/* Lựa chọn */}
       <div className="answers">
         {q.choices.map((c, i) => {
           const sel = selected.has(c.key)
@@ -64,6 +71,7 @@ export default function QuestionCard({ index, total, q, selected, onToggle, onTh
         })}
       </div>
 
+      {/* Toolbar */}
       <div className="toolbar">
         <button type="button" className="ghost" onClick={onThinkToggle}>
           {isThink ? 'Bỏ đánh dấu' : 'Think more'}
@@ -81,9 +89,10 @@ export default function QuestionCard({ index, total, q, selected, onToggle, onTh
         )}
       </div>
 
+      {/* Kết quả đúng (Practice + đã Check) */}
       {mode === 'practice' && revealed && (
         <div className="card" style={{ background: '#0f1624', border: '1px solid #1f2a3d', marginTop: 12 }}>
-          <div className="row" style={{ alignItems: 'baseline', marginBottom: 6 }}>
+          <div className="row" style={{ alignItems: 'center', marginBottom: 6 }}>
             <div className="badge" style={{ background: 'transparent', color: '#5ad776', border: '1px solid #2c3e50' }}>
               Đáp án đúng
             </div>
