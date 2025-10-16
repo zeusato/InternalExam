@@ -225,8 +225,7 @@ export default function Quiz({ dept, onExit, onReview }: Props) {
         <div className="row" style={{ justifyContent: 'space-between' }}>
           <button className="ghost" onClick={() => setIdx(i => Math.max(0, i - 1))} disabled={idx === 0}>← Back</button>
           <div className="row">
-            <button className="secondary" onClick={() => setIdx(i => Math.min(questions.length - 1, i + 1))} disabled={idx === questions.length - 1}>Forward →</button>
-            <button onClick={() => handleSubmit(false)}>Nộp bài</button>
+            <button className="secondary" onClick={() => setIdx(i => Math.min(questions.length - 1, i + 1))} disabled={idx === questions.length - 1}>Next →</button>            
           </div>
         </div>
       </div>
@@ -239,8 +238,12 @@ export default function Quiz({ dept, onExit, onReview }: Props) {
         <QuestionMap total={questions.length} answeredSet={answeredSet} thinkSet={thinkSet} current={idx} onJump={jump} />
         <div className="divider" />
         <div className="row" style={{ justifyContent: 'space-between' }}>
-          <button className="ghost" onClick={onExit}>Thoát</button>
+          {/* <button className="ghost" onClick={onExit}>Thoát</button> */}
           <div style={{ color: '#b8c2d6', fontSize: 12 }}>• Xám: chưa làm • Xanh: đã chọn • Cam: Think more</div>
+        </div>
+        <div className="row" style={{ justifyContent: 'space-between', marginTop: 'auto' }}>
+          <button onClick={() => handleSubmit(false)}>Nộp bài</button>
+          <button className="ghost" onClick={onExit}>Thoát</button>
         </div>
       </div>
       <ResultsModal open={showResult} correct={correct} total={questions.length} onClose={exitToHome} onReview={goReview} />

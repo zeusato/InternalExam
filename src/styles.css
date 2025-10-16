@@ -41,12 +41,22 @@ select, .input {
 .answer .label { font-weight: 700; width: 24px; display: inline-block; color: var(--muted); }
 .toolbar { display:flex; gap:10px; align-items:center; justify-content: space-between; margin-top: 10px; }
 .map {
-  display: grid; grid-template-columns: repeat(10, 1fr); gap: 6px; padding: 10px; background: #0f1420; border:1px solid var(--border); border-radius: 10px;
-  max-height: 330px; overflow: auto;
+  display: grid;
+  grid-template-columns: repeat(10, minmax(0, 1fr)); /* tránh tràn do min-content */
+  gap: 6px;
+  padding: 10px;
+  background: #0f1420;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden; /* cắt scroll */
 }
 .map .cell {
-  width: 26px; height: 26px; display:flex; align-items:center; justify-content:center; border-radius: 6px; font-size: 12px;
-  background: #1a2231; color: var(--muted); cursor:pointer; border: 1px solid #22314a;
+  width: 100%;
+  aspect-ratio: 1 / 1;             /* tự co để vừa 10 cột */
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 6px; font-size: 12px;
+  background: #1a2231; color: var(--muted); cursor: pointer; border: 1px solid #22314a;
+  min-width: 0;                     /* đề phòng tràn do text */
 }
 .map .cell.answered { background: #15324a; color: var(--text); border-color: #2b73b8; }
 .map .cell.think { background: #3b2a0a; color: #ffd28a; border-color: #ff9f1a; }
