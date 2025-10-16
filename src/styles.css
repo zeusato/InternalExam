@@ -77,3 +77,72 @@ select, .input {
 .review .ans.correct { border:1px solid #2f8f5b; background:#0e2217; }
 .review .ans.user-wrong { border:1px solid #a33a3a; background:#2a1212; }
 footer { margin-top: 20px; text-align:center; color: var(--muted); font-size: 12px; }
+.answer.correct { border-color: var(--ok); background: rgba(90, 215, 118, 0.12); }
+.answer.wrong { border-color: #d65b5b; background: rgba(214, 91, 91, 0.12); }
+/* --- FIX toggle bị che --- */
+.app-header {
+  position: relative;     /* tạo stacking context */
+  z-index: 9999;          /* cao hơn cái panel bên dưới */
+  pointer-events: auto;   /* đảm bảo nhận click */
+}
+
+/* Phòng khi panel có pseudo-element phủ lên */
+.card::before,
+.card::after {
+  pointer-events: none;
+}
+
+/* Nếu panel chính có z-index cao quá thì kéo nó xuống */
+.container > .card,
+.container > .panel {
+  position: relative;
+  z-index: 1;
+}
+/* Toggle styles */
+.mode-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  user-select: none;
+}
+
+.mode-label {
+  font-size: 12px;
+  color: #a0a8b8;
+}
+.mode-label.active {
+  color: #fff;
+  font-weight: 600;
+}
+
+.switch {
+  position: relative;
+  width: 40px;
+  height: 20px;
+  border-radius: 999px;
+  background: #55607a;
+  border: 1px solid #39445c;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 2px;
+  transition: background .2s ease;
+  cursor: pointer;
+}
+.switch.on { background: #3b82f6; }
+.switch.disabled {
+  opacity: .5;
+  cursor: not-allowed;
+}
+
+.switch .knob {
+  width: 16px;
+  height: 16px;
+  border-radius: 999px;
+  background: #fff;
+  transform: translateX(0);
+  transition: transform .2s ease;
+}
+.switch.on .knob { transform: translateX(20px); }
+
+/* Đảm bảo header luôn nhận click */
+.app-header { position: relative; z-index: 10; }
